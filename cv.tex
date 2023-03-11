@@ -1,0 +1,212 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Medium Length Professional CV
+% LaTeX Template
+% Version 2.0 (8/5/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Trey Hunner (http://www.treyhunner.com/)
+%
+% Important note:
+% This template requires the resume.cls file to be in the same directory as the
+% .tex file. The resume.cls file provides the resume style used for structuring the
+% document.
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass{resume} % Use the custom resume.cls style
+
+\usepackage[left=0.4 in,top=0.4in,right=0.4 in,bottom=0.4in]{geometry} % Document margins
+\newcommand{\tab}[1]{\hspace{.2667\textwidth}\rlap{#1}} 
+\newcommand{\itab}[1]{\hspace{0em}\rlap{#1}}
+\name{Ted Zhao} % Your name
+\address{10/4 Sheppards Lane, Norwood SA 5067}
+\address{\url{https://linkedin.com/in/ted-zhao}}
+\address{(+61)416551622 \\ tedzhao4job@outlook.com}
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	OBJECTIVE
+%---------------------------------------------------------------------------------------
+\begin{rSection}{SUMMARY}
+
+\item 5+ years in Machine Learning/Data Science, focus on recommendation and computer vision
+\item Delivered end-to-end ML solutions using Databricks/Spark, Docker, Python
+\item Conducted AB tests and tracked metrics for real-world business
+
+\end{rSection}
+
+%----------------------------------------------------------------------------------------
+%	TECHNICAL STRENGTHS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{SKILLS}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+
+Programming Languages &  Python, VBA, Scala, Julia\\
+AI/Machine Learning  &  Reinforced Learning, Deep Learning\\
+Data Science & Tableau, AB Test, Statistics, Data Analysis\\
+ETL & SQL, Spark, Databricks, Pandas \\
+DEV & Git, Docker \\
+\end{tabular}
+
+\end{rSection}
+
+%---------------------------------------------------------------------------------------
+%	WORK EXPERIENCE SECTION
+%---------------------------------------------------------------------------------------
+\begin{rSection}{WORK EXPERIENCE}
+
+\sl\textbf{AI Engineer - Skyscanner} \hfill {Nov 2019 - July 2021 (1 year and 9 months)}\\
+Shenzhen, China / Collaborated with the teams across UK \& Bulgaria\ 
+
+\item [\textbullet] \textbf{[Recommendations]} Iterated the recommendation with ML models (Logistic Regression / LightGBM Deep learning)
+    \begin{itemize}
+    \item Delivered model for end-to-end, with docker shipment, leading to \textbf{+5-10\% in CTR} each iteration
+    \end{itemize}
+
+\item [\textbullet] \textbf{[Computer Vision][Deep learning]} Applied Deep learning model on Hotel images
+    \begin{itemize}
+    \item Utilized ResNet for categorizing hotel images into 20 landscapes/interior labels, achieving \textbf{99\% accuracy} in Top-5 predictions
+    \item Utilized MobileNet to select thumbnails for hotels, having \textbf{+3\% CTR}
+    \end{itemize}
+
+\item [\textbullet] \textbf{[AB test]} Performed AB test analysis for Car-hire and Hotel search page
+    \begin{itemize}
+    \item Car-hire achieved \textbf{10X growth} during the pandemic
+    \item Created \textbf{Data dashboards in tableau and Databricks} for stakeholder referencing
+    \end{itemize}
+
+\item [\textbullet] \textbf{[ETL]} Implemented data pipelines in Spark/Databricks
+    \begin{itemize}
+    \item Generated \textbf{a dozen of key metrics and features} feeding to model training and AB testing analytics.
+    \end{itemize}
+
+\rule{\textwidth}{1pt}
+
+
+%---------------------------------------------------------------------------------------
+
+\sl\textbf{Data Scientist - Smart Decision Technology Ltd} \hfill {Aug 2015 - Mar 2018 (2 years and 8 months)}\\
+Shenzhen, China\
+
+\item [\textbullet] \textbf{[Simulation]} Delivered a simulation system in Python for S.F Express
+\begin{itemize}
+    \item Utilized \textbf{SimPy} to recreate the conveying system in Distribution Center
+    \item Developed a front-end page to facilitate input of site designs and parameters by business personnel
+    \item Set up a back-end service to store simulation parameters and results for each iteration.
+    \item This solution outperformed \textbf{three competitors in speed and customizability}, landing a \textbf{2-years contract} with S.F.Express
+\end{itemize}
+
+\item [\textbullet] \textbf{[Credit Risk Modeling]} Designed credit scorecard workflows using Python to replace SAS. 
+\begin{itemize}
+    \item Created \textbf{feature selection, binning, and WOE calculation} in Python
+    \item Converted the logistics model into scorecards in Python
+\end{itemize}
+
+\item [\textbullet] \textbf{[Segment Analysis][NLP]} Delivered client segment reports for Hong Kong Jockey Club
+\begin{itemize}
+    \item Created Segment analysis using clustering and generated data diagram and charts in reports
+    \item Built \textbf{sentiment analysis using word2vec on Cantonese and English mixed restaurant reviews}
+\end{itemize}
+
+\rule{\textwidth}{1pt}
+
+
+%---------------------------------------------------------------------------------------
+
+\sl\textbf{Data Scientist - DJI} \hfill {April 2018 - Aug 2018 (5 months)}\\
+Shenzhen, China\
+
+\item [\textbullet] \textbf{[Competitive Analysis]} Supported a comprehensive campaign with competitive analysis
+\begin{itemize}
+    \item [\textbullet] \textbf{[Data Scrapping]} Scraped data on retail locations from competitors
+\end{itemize}
+
+\item [\textbullet] \textbf{[Data Presentation]} Analyzed collected dataset to uncover patterns and insights for the campaign team
+\begin{itemize}
+    \item Translated findings into actionable recommendations
+    \item Enabling the stakeholders to make decisions and optimize the product launch strategy
+\end{itemize}
+
+
+\end{rSection} 
+
+% SECTION
+%--------------------------------------------------------------------------------------
+\begin{rSection}{Research Project} 
+\sl\textbf{Quant Trading with Reinforcement Learning} \hfill Sep 2022 - Present\\
+The University of Adelaide, Master of Machine Learning\
+
+\item [\textbullet] \textbf{[Reinforced Learning]} Conducting a research project while studying master's in Machine learning at the University of Adelaide
+\begin{itemize}
+    \item Developed trading strategy for the Crypto market using \textbf{Reinforced Learning}
+    \item Designed Reward with Sharp Ratio, and actions were the next sell/buy quantity of all assets
+    \item Designed \textbf{two Deep learning modules} to capture price signals and market sentiment
+    \item [\textbullet] \textbf{[Back Testing]} Created back-test with metrics \textbf{Sharp Ratio, MDD} described profit curves with plots under consideration of fees and whether using the compound return
+    \item Achieved \textbf{120 \% return} and \textbf{MDD under 10\%} in next year evaluation
+\end{itemize}
+
+\end{rSection} 
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{Education}
+
+{\bf Master of Machine Learning} \hfill { June 2021 - June 2023}
+\\ The University of Adelaide
+
+
+{\bf Bachelor's degree in Mathematics Science} \hfill { Sep 2010 - July 2014}
+\\ Shenzhen University
+
+%Minor in Linguistics \smallskip \\
+%Member of Eta Kappa Nu \\
+%Member of Upsilon Pi Epsilon \\
+
+\end{rSection}
+
+
+%----------------------------------------------------------------------------------------
+%	CERTIFICATIONS SECTION
+%----------------------------------------------------------------------------------------
+
+\begin{rSection}{CERTIFICATIONS}
+
+{\bf Machine Learning - Coursera} \hfill {October 2016} 
+\\https://www.coursera.org/account/accomplishments/verify/Q89DMB9RYYTB
+
+{\bf Machine Learning Nanodegree Program - Udacity} \hfill {Dec 2018} 
+\\https://graduation.udacity.com/confirm/PKAQPLU2
+
+
+\end{rSection}
+
+% ----
+% lang
+% ---
+
+\begin{rSection}{LANGUAGES}
+
+\begin{tabular}{ @{} >{\bfseries}l @{\hspace{6ex}} l }
+
+English & IELTS - CEFR C1 (Advanced)\\
+Mandarin(Chinese) & Native\\
+Cantonese(Chinese) & Native\\
+
+\end{tabular}
+
+\end{rSection}
+
+
+\end{document}
