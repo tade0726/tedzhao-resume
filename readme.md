@@ -29,7 +29,7 @@
 
 ## WORK EXPERIENCE
 
----
+
 ### AI Engineer - Skyscanner 
 
 Nov 2019 - July 2021 (1 year and 9 months)\
@@ -49,7 +49,6 @@ Shenzhen, China / Collaborated with the teams across UK & Bulgaria
 - **[ETL]** Implemented data pipelines in Spark/Databricks
     - Generated **a dozen of key metrics and features** feeding to model training and AB testing analytics.
 
----
 
 ### Data Scientist - Smart Decision Technology Ltd 
 Aug 2015 - Mar 2018 (2 years and 8 months)\
@@ -69,7 +68,6 @@ Shenzhen, China
     - Created Segment analysis using clustering and generated data diagram and charts in reports
     - Built **sentiment analysis using word2vec on Cantonese and English mixed restaurant reviews**
 
----
 
 ### Data Scientist - DJI 
 April 2018 - Aug 2018 (5 months)\
