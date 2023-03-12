@@ -56,8 +56,8 @@ Shenzhen, China
 
 - **[Simulation]** Delivered a simulation system in Python for S.F Express
     - Utilized **SimPy** to recreate the conveying system in Distribution Center
-    - Developed a front-end page to facilitate input of site designs and parameters by business personnel
-    - Set up a back-end service to store simulation parameters and results for each iteration.
+    - Developed a frontend page to facilitate input of site designs and parameters by business personnel
+    - Set up a backend service with **MySQL** to store simulation parameters and results for each iteration.
     - This solution outperformed **three competitors in speed and customizability**, landing a **2-years contract** with S.F.Express
 
 - **[Credit Risk Modeling]** Designed credit scorecard workflows using Python to replace SAS. 
