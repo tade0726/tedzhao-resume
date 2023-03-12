@@ -19,8 +19,8 @@
 
 ## SKILLS
 
-| **Programming Languages** | Python, VBA, Scala, Julia |
 | --- | --- |
+| **Programming Languages** | Python, VBA, Scala, Julia |
 | **AI/Machine Learning** | Reinforced Learning, Deep Learning |
 | **Data Science** | Tableau, AB Test, Statistics, Data Analysis |
 | **ETL** | SQL, Spark, Databricks, Pandas |
