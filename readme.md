@@ -19,6 +19,7 @@
 
 ## SKILLS
 
+| | |
 | --- | --- |
 | **Programming Languages** | Python, VBA, Scala, Julia |
 | **AI/Machine Learning** | Reinforced Learning, Deep Learning |
