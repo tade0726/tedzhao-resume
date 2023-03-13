@@ -2,22 +2,18 @@
 
 # TED ZHAO
 
-+61 416 551 622  ⋄  tedzhao4job@outlook.com
++61 416 551 622  ⋄  tedzhao4job@outlook.com\
+10/4 Sheppards Lane, Norwood SA 5067\
+[LinkedIn](https://linkedin.com/in/ted-zhao) ⋄ [Github](https://github.com/tade0726)
 
-10/4 Sheppards Lane, Norwood SA 5067
-
-[LinkedIn](https://linkedin.com/in/ted-zhao)
 </center>
 
----
 
 ## PROFILE
 
 - Over 5 years of experience in Machine Learning and Data Science, specializing in recommendation systems and computer vision.
 - Experienced in delivering end-to-end ML solutions using Databricks/Spark, Docker, and Python.
 - Skilled in conducting AB tests and tracking metrics for real-world business applications.
-
----
 
 ## SKILLS
 
@@ -29,6 +25,8 @@
 | **ETL** | SQL, Spark, Databricks, Pandas |
 | **Version Control** | Git |
 | **Containerization** | Docker |
+
+---
 
 ## WORK EXPERIENCE
 
@@ -51,6 +49,7 @@ Shenzhen, China (Collaborated with teams across the UK and Bulgaria)
 - **[ETL]** Designed and implemented data pipelines in Spark/Databricks.
     - Generated **a dozen key metrics and features** to train models and conduct AB testing analytics.
 
+    ---
 
 ### Data Scientist - Smart Decision Technology Ltd
 
@@ -71,6 +70,22 @@ Shenzhen, China
     - Created segment analysis using clustering and generated data diagrams and charts in reports.
     - Built **sentiment analysis using Word2Vec** on mixed Cantonese and English restaurant reviews.
 
+    ---
+
+### Data Scientist - DJI
+
+April 2018 - Aug 2018 (5 months) \
+Shenzhen, China
+
+- **[Competitive Analysis]** Provided support for a comprehensive campaign through competitive analysis.
+    - **[Data Scraping]** Scraped retail location data from competitors.
+
+- **[Data Presentation]** Analyzed collected dataset to identify patterns and insights for the campaign team.
+    - Translated findings into actionable recommendations.
+    - Empowered stakeholders to make informed decisions and optimize the product launch strategy.
+
+
+    ---
 
 ### Data Scientist - DJI
 
@@ -99,31 +114,28 @@ The University of Adelaide, Master of Machine Learning
     - **[Back Testing]** Developed a back-test with metrics **Sharp Ratio, Maximum Drawdown(MDD)** and presented profit curves with plots, considering fees and compound returns.
 
 
+---
+
 ## Education
 
-- **Master of Machine Learning** \
-  The University of Adelaide \
-  June 2021 - June 2023
-
-- **Bachelor's Degree in Mathematical Sciences** \
-  Shenzhen University \
-  September 2010 - July 2014
+|  | Institution | Duration |
+| --- | --- | --- |
+| Master of Machine Learning | The University of Adelaide | June 2021 - June 2023 |
+| Bachelor's Degree in Mathematical Sciences | Shenzhen University | September 2010 - July 2014 |
 
 
 ## Certifications
 
-- **Machine Learning - Coursera** \
-    October 2016 \
-    [Verification](https://www.coursera.org/account/accomplishments/verify/Q89DMB9RYYTB)
-
-- **Machine Learning Nanodegree Program - Udacity** \
-    December 2018 \
-    [Verification](https://graduation.udacity.com/confirm/PKAQPLU2)
+|  | Date | Verification |
+| --- | --- | --- |
+| Machine Learning - Coursera | October 2016 | [Verify](https://www.coursera.org/account/accomplishments/verify/Q89DMB9RYYTB) |
+| Machine Learning Nanodegree Program - Udacity | December 2018 | [Verify](https://graduation.udacity.com/confirm/PKAQPLU2) |
 
 
-## Languages
+## Language Proficiency
 
-- **English:** IELTS - CEFR C1 (Advanced)
-- **Mandarin (Chinese):** Native
-- **Cantonese (Chinese):** Native
-
+|  | Proficiency |
+| --- | ---: |
+| English | IELTS - CEFR C1 (Advanced) |
+| Mandarin (Chinese) | Native |
+| Cantonese (Chinese) | Native |
