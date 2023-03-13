@@ -2,97 +2,101 @@
 
 # TED ZHAO
 
-(+61)416551622 ⋄ tedzhao4job@outlook.com
++61 416 551 622  ⋄  tedzhao4job@outlook.com
 
 10/4 Sheppards Lane, Norwood SA 5067
 
-[https://linkedin.com/in/ted-zhao](https://linkedin.com/in/ted-zhao)
-
+[LinkedIn](https://linkedin.com/in/ted-zhao)
 </center>
 
-## SUMMARY
+---
 
-- 5+ years in Machine Learning/Data Science, focus on recommendation and computer vision
-- Delivered end-to-end ML solutions using Databricks/Spark, Docker, Python
-- Conducted AB tests and tracked metrics for real-world business
+## PROFILE
 
+- Over 5 years of experience in Machine Learning and Data Science, specializing in recommendation systems and computer vision.
+- Experienced in delivering end-to-end ML solutions using Databricks/Spark, Docker, and Python.
+- Skilled in conducting AB tests and tracking metrics for real-world business applications.
+
+---
 
 ## SKILLS
 
-| **Programming Languages** | Python, VBA, Scala, Julia |
+| | |
 | --- | --- |
-| **AI/Machine Learning** | Reinforced Learning, Deep Learning |
-| **Data Science** | Tableau, AB Test, Statistics, Data Analysis |
+| **Programming Languages** | Python, VBA, Scala, Julia |
+| **AI/Machine Learning** | Reinforcement Learning, Deep Learning |
+| **Data Science** | Tableau, A/B Testing, Statistics, Data Analysis |
 | **ETL** | SQL, Spark, Databricks, Pandas |
-| **DEV** | Git, Docker |
-
+| **Version Control** | Git |
+| **Containerization** | Docker |
 
 ## WORK EXPERIENCE
 
+### Machine Learning Engineer - Skyscanner
 
-### AI Engineer - Skyscanner 
+Nov 2019 - July 2021 (1 year and 9 months) \
+Shenzhen, China (Collaborated with teams across the UK and Bulgaria)
 
-Nov 2019 - July 2021 (1 year and 9 months)\
-Shenzhen, China / Collaborated with the teams across UK & Bulgaria
+- **[Recommendation Systems]** Developed and improved recommendation systems using iterative ML models (Logistic Regression / LightGBM Deep learning).
+    - Utilized Docker for end-to-end model delivery, resulting in a **+5-10% increase in CTR** with each iteration.
 
-- **[Recommendations]** Iterated the recommendation with ML models (Logistic Regression / LightGBM Deep learning)
-    - Delivered model for end-to-end, with docker shipment, leading to **+5-10% in CTR** each iteration
+- **[Computer Vision / Deep Learning]** Applied Deep learning models to hotel images to enhance user experience.
+    - Employed ResNet for categorizing hotel images into 20 landscape/interior labels, achieving **99% accuracy** in Top-5 predictions.
+    - Utilized MobileNet to select thumbnails for hotels, resulting in a **+3% increase in CTR**.
 
-- **[Computer Vision][Deep learning]** Applied Deep learning model on Hotel images
-    - Utilized ResNet for categorizing hotel images into 20 landscapes/interior labels, achieving **99% accuracy** in Top-5 predictions
-    - Utilized MobileNet to select thumbnails for hotels, having **+3% CTR**
+- **[A/B Testing]** Performed AB test analysis for car-hire and hotel search pages.
+    - Achieved **10X growth** in car-hire during the pandemic.
+    - Built data dashboards in Tableau and Databricks for stakeholder reference.
 
-- **[AB test]** Performed AB test analysis for Car-hire and Hotel search page
-    - Car-hire achieved **10X growth** during the pandemic
-    - Created **Data dashboards in tableau and Databricks** for stakeholder referencing
-
-- **[ETL]** Implemented data pipelines in Spark/Databricks
-    - Generated **a dozen of key metrics and features** feeding to model training and AB testing analytics.
+- **[ETL]** Designed and implemented data pipelines in Spark/Databricks.
+    - Generated **a dozen key metrics and features** to train models and conduct AB testing analytics.
 
 
-### Data Scientist - Smart Decision Technology Ltd 
-Aug 2015 - Mar 2018 (2 years and 8 months)\
+### Data Scientist - Smart Decision Technology Ltd
+
+Aug 2015 - Mar 2018 (2 years and 8 months) \
 Shenzhen, China
 
-- **[Simulation]** Delivered a simulation system in Python for S.F Express
-    - Utilized **SimPy** to recreate the conveying system in Distribution Center
-    - Developed a frontend page to facilitate input of site designs and parameters by business personnel
-    - Set up a backend service with **MySQL** to store simulation parameters and results for each iteration.
-    - This solution outperformed **three competitors in speed and customizability**, landing a **2-years contract** with S.F.Express
+- **[Simulation]** Developed and delivered a simulation system in Python for S.F Express.
+    - Utilized **SimPy** to recreate the conveying system in the Distribution Center.
+    - Built a front-end page to facilitate input of site designs and parameters by business personnel.
+    - Established a back-end service to store simulation parameters and results for each iteration.
+    - This solution outperformed three competitors in speed and customizability, securing a **2-year contract** with S.F.Express.
 
-- **[Credit Risk Modeling]** Designed credit scorecard workflows using Python to replace SAS. 
-    - Created **feature selection, binning, and WOE calculation** in Python
-    - Converted the logistics model into scorecards in Python
+- **[Credit Risk Modeling]** Designed credit scorecard workflows using Python to replace SAS.
+    - Created **feature selection, binning, and WOE calculation** in Python.
+    - Converted the logistics model into scorecards in Python.
 
-- **[Segment Analysis][NLP]** Delivered client segment reports for Hong Kong Jockey Club
-    - Created Segment analysis using clustering and generated data diagram and charts in reports
-    - Built **sentiment analysis using word2vec on Cantonese and English mixed restaurant reviews**
+- **[Segment Analysis / NLP]** Delivered client segment reports for Hong Kong Jockey Club.
+    - Created segment analysis using clustering and generated data diagrams and charts in reports.
+    - Built **sentiment analysis using Word2Vec** on mixed Cantonese and English restaurant reviews.
 
 
-### Data Scientist - DJI 
-April 2018 - Aug 2018 (5 months)\
+### Data Scientist - DJI
+
+April 2018 - Aug 2018 (5 months) \
 Shenzhen, China
 
-- **[Competitive Analysis]** Supported a comprehensive campaign with competitive analysis
-    - **[Data Scrapping]** Scraped data on retail locations from competitors
+- **[Competitive Analysis]** Provided support for a comprehensive campaign through competitive analysis.
+    - **[Data Scraping]** Scraped retail location data from competitors.
 
-- **[Data Presentation]** Analyzed collected dataset to uncover patterns and insights for the campaign team
-    - Translated findings into actionable recommendations
-    - Enabling the stakeholders to make decisions and optimize the product launch strategy
+- **[Data Presentation]** Analyzed collected dataset to identify patterns and insights for the campaign team.
+    - Translated findings into actionable recommendations.
+    - Empowered stakeholders to make informed decisions and optimize the product launch strategy.
 
 
-## Research Project
+## RESEARCH PROJECT
 
-### Quant Trading with Reinforcement Learning
-Sep 2022 - Present\
-The University of Adelaide, Master of Machine Learning\
+### Quantitative Trading with Reinforcement Learning 
 
-- **[Reinforced Learning]** Conducting a research project while studying master's in Machine learning at the University of Adelaide
-    - Developed trading strategy for the Crypto market using **Reinforced Learning**
-    - Designed Reward with Sharp Ratio, and actions were the next sell/buy quantity of all assets
-    - Designed **two Deep learning modules** to capture price signals and market sentiment
-    - **[Back Testing]** Created back-test with metrics **Sharp Ratio, MDD** described profit curves with plots under consideration of fees and whether using the compound return
-    - Achieved **120% return** and **MDD under 10%** in next year evaluation
+Sep 2022 - Present \
+The University of Adelaide, Master of Machine Learning
+
+- **[Reinforcement Learning]** Conducting a research project while pursuing a master's degree in Machine Learning at The University of Adelaide.
+    - Developed a trading strategy for the Crypto market using **Reinforcement Learning**.
+    - Designed a reward system with Sharp Ratio, where actions were the next sell/buy quantity of all assets.
+    - Created **two Deep Learning modules** to capture price signals and market sentiment.
+    - **[Back Testing]** Developed a back-test with metrics **Sharp Ratio, Maximum Drawdown(MDD)** and presented profit curves with plots, considering fees and compound returns.
 
 
 ## Education
@@ -101,9 +105,9 @@ The University of Adelaide, Master of Machine Learning\
   The University of Adelaide \
   June 2021 - June 2023
 
-- **Bachelor's degree in Mathematics Science** \
+- **Bachelor's Degree in Mathematical Sciences** \
   Shenzhen University \
-  Sep 2010 - July 2014
+  September 2010 - July 2014
 
 
 ## Certifications
@@ -113,12 +117,13 @@ The University of Adelaide, Master of Machine Learning\
     [Verification](https://www.coursera.org/account/accomplishments/verify/Q89DMB9RYYTB)
 
 - **Machine Learning Nanodegree Program - Udacity** \
-    Dec 2018 \
+    December 2018 \
     [Verification](https://graduation.udacity.com/confirm/PKAQPLU2)
 
 
 ## Languages
 
 - **English:** IELTS - CEFR C1 (Advanced)
-- **Mandarin(Chinese):** Native
-- **Cantonese(Chinese):** Native
+- **Mandarin (Chinese):** Native
+- **Cantonese (Chinese):** Native
+
