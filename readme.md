@@ -3,7 +3,7 @@
 # TED ZHAO
 
 +61 416 551 622  ⋄  tedzhao4job@outlook.com\
-10/4 Sheppards Lane, Norwood SA 5067\
+10/4 Sheppards Lane, Norwood SA 5067, Australia\
 [LinkedIn](https://linkedin.com/in/ted-zhao) ⋄ [Github](https://github.com/tade0726)
 
 </center>
@@ -17,25 +17,26 @@
 
 ## SKILLS
 
-| | |
-| --- | --- |
 | **Programming Languages** | Python, VBA, Scala, Julia |
-| **AI/Machine Learning** | Reinforcement Learning, Deep Learning |
+| --- |:---|
+| **AI/Machine Learning** | Reinforcement Learning, Deep Learning, Clustering, Lightgbm, XGBoost, SVM, Word2Vec|
 | **Data Science** | Tableau, A/B Testing, Statistics, Data Analysis |
 | **ETL** | SQL, Spark, Databricks, Pandas |
 | **Version Control** | Git |
 | **Containerization** | Docker |
 
----
-
 ## WORK EXPERIENCE
 
 ### Machine Learning Engineer - Skyscanner
 
-Nov 2019 - July 2021 (1 year and 9 months) \
-Shenzhen, China (Collaborated with teams across the UK and Bulgaria)
+<p style="text-align:left;font-style: italic">
+    Shenzhen, China (Collaborated with teams across the UK and Bulgaria)
+    <span style="float:right;font-style: italic">
+        Nov 2019 - July 2021 (1 year and 9 months)
+    </span>
+</p>
 
-- **[Recommendation Systems]** Developed and improved recommendation systems using iterative ML models (Logistic Regression / LightGBM Deep learning).
+- **[Recommendation Systems]** Developed and improved recommendation systems using iterative ML models (Logistic Regression / LightGBM / Deep learning).
     - Utilized Docker for end-to-end model delivery, resulting in a **+5-10% increase in CTR** with each iteration.
 
 - **[Computer Vision / Deep Learning]** Applied Deep learning models to hotel images to enhance user experience.
@@ -49,12 +50,16 @@ Shenzhen, China (Collaborated with teams across the UK and Bulgaria)
 - **[ETL]** Designed and implemented data pipelines in Spark/Databricks.
     - Generated **a dozen key metrics and features** to train models and conduct AB testing analytics.
 
-    ---
 
 ### Data Scientist - Smart Decision Technology Ltd
 
-Aug 2015 - Mar 2018 (2 years and 8 months) \
+<p style="text-align:left;font-style: italic">
 Shenzhen, China
+    <span style="float:right;font-style: italic">
+        Aug 2015 - Mar 2018 (2 years and 8 months) 
+    </span>
+</p>
+
 
 - **[Simulation]** Developed and delivered a simulation system in Python for S.F Express.
     - Utilized **SimPy** to recreate the conveying system in the Distribution Center.
@@ -70,27 +75,15 @@ Shenzhen, China
     - Created segment analysis using clustering and generated data diagrams and charts in reports.
     - Built **sentiment analysis using Word2Vec** on mixed Cantonese and English restaurant reviews.
 
-    ---
 
 ### Data Scientist - DJI
 
-April 2018 - Aug 2018 (5 months) \
+<p style="text-align:left;font-style: italic">
 Shenzhen, China
-
-- **[Competitive Analysis]** Provided support for a comprehensive campaign through competitive analysis.
-    - **[Data Scraping]** Scraped retail location data from competitors.
-
-- **[Data Presentation]** Analyzed collected dataset to identify patterns and insights for the campaign team.
-    - Translated findings into actionable recommendations.
-    - Empowered stakeholders to make informed decisions and optimize the product launch strategy.
-
-
-    ---
-
-### Data Scientist - DJI
-
-April 2018 - Aug 2018 (5 months) \
-Shenzhen, China
+    <span style="float:right;font-style: italic">
+April 2018 - Aug 2018 (5 months)
+    </span>
+</p>
 
 - **[Competitive Analysis]** Provided support for a comprehensive campaign through competitive analysis.
     - **[Data Scraping]** Scraped retail location data from competitors.
@@ -102,10 +95,14 @@ Shenzhen, China
 
 ## RESEARCH PROJECT
 
-### Quantitative Trading with Reinforcement Learning 
+### Quantitative Trading with Reinforcement Learning - The University of Adelaide
 
-Sep 2022 - Present \
-The University of Adelaide, Master of Machine Learning
+<p style="text-align:left;font-style: italic">
+Adelaide, SA, Australia
+    <span style="float:right;font-style: italic">
+Sep 2022 - Present
+    </span>
+</p>
 
 - **[Reinforcement Learning]** Conducting a research project while pursuing a master's degree in Machine Learning at The University of Adelaide.
     - Developed a trading strategy for the Crypto market using **Reinforcement Learning**.
@@ -113,8 +110,6 @@ The University of Adelaide, Master of Machine Learning
     - Created **two Deep Learning modules** to capture price signals and market sentiment.
     - **[Back Testing]** Developed a back-test with metrics **Sharp Ratio, Maximum Drawdown(MDD)** and presented profit curves with plots, considering fees and compound returns.
 
-
----
 
 ## Education
 
