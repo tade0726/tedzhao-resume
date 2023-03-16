@@ -4,4 +4,4 @@
 
 ## Tools
 
-markdown to pdf: https://linkedin.com/in/ted-zhao
+markdown to pdf: https://md2pdf.netlify.app/
