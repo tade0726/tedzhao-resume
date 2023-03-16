@@ -19,11 +19,12 @@
 
 | **Programming Languages** | Python, VBA, Scala, Julia |
 | --- |:---|
+| **Web/Web Scraping** | Django, Flask, asyncio, Scrapy|
 | **AI/Machine Learning** | Reinforcement Learning, Deep Learning, Clustering, Lightgbm, XGBoost, SVM, Word2Vec|
 | **Data Science** | Tableau, A/B Testing, Statistics, Data Analysis |
-| **ETL** | SQL, Spark, Databricks, Pandas |
+| **ETL** | SQL, SQLAlchemy, Spark, Databricks, Pandas |
 | **Version Control** | Git |
-| **Containerization** | Docker |
+| **Containerization** | Docker|
 
 ## WORK EXPERIENCE
 
