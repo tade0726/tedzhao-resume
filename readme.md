@@ -23,7 +23,8 @@
 | **Web/Web Scraping** | Django, Flask, asyncio, Scrapy|
 | **AI/Machine Learning** | Reinforcement Learning, Deep Learning, Clustering, Lightgbm, XGBoost, SVM, Word2Vec|
 | **Data Science** | Tableau, A/B Testing, Statistics, Data Analysis |
-| **ETL** | SQL, SQLAlchemy, Spark, Databricks, Pandas |
+| **ETL** | SQL, SQLAlchemy, Spark, Pandas |
+| **Cloud** | AWS, AWS Sagemaker, Azure ML, Databricks|
 | **Version Control** | Git |
 | **Containerization** | Docker|
 
@@ -39,7 +40,7 @@
 </p>
 
 - **[Recommendation Systems]** Developed and improved recommendation systems using iterative ML models (Logistic Regression / LightGBM / Deep learning).
-    - Utilized Docker for end-to-end model delivery, resulting in a **+5-10% increase in CTR** with each iteration.
+    - Utilized **Docker** for end-to-end model delivery with **AWS Sagemaker** environment, resulting in a **+5-10% increase in CTR** with each iteration.
 
 - **[Computer Vision / Deep Learning]** Applied Deep learning models to hotel images to enhance user experience.
     - Employed ResNet for categorizing hotel images into 20 landscape/interior labels, achieving **99% accuracy** in Top-5 predictions.
