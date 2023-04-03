@@ -1,11 +1,13 @@
 <center>
 
 # TED ZHAO
-+61 416 551 622  ⋄  zp4work+job@gmail.com\
+
+416 551 622  ⋄  zp4work+job@gmail.com\
 10/4 Sheppards Lane, Norwood SA 5067, Australia\
-[LinkedIn](https://linkedin.com/in/ted-zhao) ⋄ [Github](https://github.com/tade0726)
+[linkedin.com/in/ted-zhao](https://linkedin.com/in/ted-zhao) ⋄ [github.com/tade0726](https://github.com/tade0726)
 
 </center>
+
 
 ## PROFILE
 - Experienced Data Analyst with a strong background in the hospitality/traveling business, providing insight generation to aid strategic and operational decision-making.
