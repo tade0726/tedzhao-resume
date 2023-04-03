@@ -12,9 +12,9 @@
 ## PROFILE
 
 - Over 5 years of experience in Machine Learning and Data Science, specializing in recommendation systems and computer vision.
+- Experienced in Python backend development, with familiarity in Django, Flask, and SQLAlchemy, for side projects and additional responsibilities.
 - Experienced in delivering end-to-end ML solutions using Databricks/Spark, Docker, and Python.
 - Skilled in conducting AB tests and tracking metrics for real-world business applications.
-- Experienced in Python backend development, with familiarity in Django, Flask, and SQLAlchemy, for side projects and additional responsibilities.
 
 ## SKILLS
 
