@@ -2,7 +2,7 @@
 
 # TED ZHAO
 
-416 551 622  ⋄  zp4work+job@gmail.com\
+416 551 622  ⋄  zp4work+job at gmail.com\
 10/4 Sheppards Lane, Norwood SA 5067, Australia\
 [linkedin.com/in/ted-zhao](https://linkedin.com/in/ted-zhao) ⋄ [github.com/tade0726](https://github.com/tade0726)
 
