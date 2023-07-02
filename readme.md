@@ -2,7 +2,7 @@
 
 # TED ZHAO
 
-416 551 622  ⋄  zp4work+job at gmail.com\
+0416 551 622  ⋄  zp4work+job at gmail.com\
 10/4 Sheppards Lane, Norwood SA 5067, Australia\
 [linkedin.com/in/ted-zhao](https://linkedin.com/in/ted-zhao) ⋄ [github.com/tade0726](https://github.com/tade0726)
 
@@ -16,19 +16,22 @@
 - Skilled in conducting AB tests and tracking metrics for real-world business applications.
 - Experienced in Python backend development, with familiarity in Django, Flask, and SQLAlchemy, for side projects and additional responsibilities.
 
-## SKILLS
-
-| **Programming Languages** | Python, VBA, Scala, Julia |
-| --- |:---|
-| **Web/Web Scraping** | Django, Flask, asyncio, Scrapy|
-| **AI/Machine Learning** | Reinforcement Learning, Deep Learning, Clustering, Lightgbm, XGBoost, SVM, Word2Vec|
-| **Data Science** | Tableau, A/B Testing, Statistics, Data Analysis |
-| **ETL** | SQL, SQLAlchemy, Spark, Pandas |
-| **Cloud** | AWS, AWS Sagemaker, Azure ML, Databricks|
-| **Version Control** | Git |
-| **Containerization** | Docker|
-
 ## WORK EXPERIENCE
+
+### Data/AI Engineer - RAINMAKR.AI
+
+<p style="text-align:left;font-style: italic">
+    Sydney, NSW(remote)
+    <span style="float:right;font-style: italic">
+May 2023 – Now
+    </span>
+</p>
+
+**Financials Data and Backtest**
+
+- Data Pipeline Development: Architected and implemented efficient ETL processes for the RAINMAKR.AI platform, specialising in financial statement and stock market data management using Databricks.
+- Investment Strategy Optimization: Introduced innovative data analysis techniques and machine learning algorithms to enhance existing investment strategies, delivering improved financial outcomes.
+
 
 ### Machine Learning Engineer - Skyscanner
 
@@ -63,7 +66,7 @@
 <p style="text-align:left;font-style: italic">
 Shenzhen, China
     <span style="float:right;font-style: italic">
-        Aug 2015 - Mar 2018
+[Aug 2015 - Mar 2018]
     </span>
 </p>
 
@@ -134,7 +137,7 @@ Sep 2022 - Present
 
 |  | Institution | Duration |
 | --- | --- | --- |
-| Master of Machine Learning | The University of Adelaide | June 2021 - June 2023 |
+| Master of Machine Learning | The University of Adelaide | June 2021 - May 2023 |
 | Bachelor's Degree in Mathematical Sciences | Shenzhen University | September 2010 - July 2014 |
 
 
@@ -145,11 +148,22 @@ Sep 2022 - Present
 | Machine Learning - Coursera | October 2016 | [Verify](https://www.coursera.org/account/accomplishments/verify/Q89DMB9RYYTB) |
 | Machine Learning Nanodegree Program - Udacity | December 2018 | [Verify](https://graduation.udacity.com/confirm/PKAQPLU2) |
 
-
 ## Language Proficiency
 
 |  | Proficiency |
 | --- | ---: |
-| English | IELTS - CEFR C1 (Advanced) |
+| English | IELTS 7.0 |
 | Mandarin (Chinese) | Native |
 | Cantonese (Chinese) | Native |
+
+## SKILLS
+|  | |
+| --- |:---|
+| **Programming Languages** | Python, VBA, Scala, Julia |
+| **Web/Web Scraping** | Django, Flask, asyncio, Scrapy|
+| **AI/Machine Learning** | Reinforcement Learning, Deep Learning, Clustering, Lightgbm, XGBoost, SVM, Word2Vec|
+| **Data Science** | Tableau, A/B Testing, Statistics, Data Analysis |
+| **ETL** | SQL, SQLAlchemy, Spark, Pandas |
+| **Cloud** | AWS, AWS Sagemaker, Azure ML, Databricks|
+| **Version Control** | Git |
+| **Containerization** | Docker|
