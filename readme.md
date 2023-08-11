@@ -27,11 +27,9 @@ May 2023 – Now
     </span>
 </p>
 
-**Financials Data and Backtest**
-
-- Data Pipeline Development: Architected and implemented efficient ETL processes for the RAINMAKR.AI platform, specialising in financial statement and stock market data management using Databricks.
-- Investment Strategy Optimization: Introduced innovative data analysis techniques and machine learning algorithms to enhance existing investment strategies, delivering improved financial outcomes.
-
+- **Data Pipeline**: Designed and executed streamlined ETL processes for the RAINMAKR.AI platform, with a specialised focus on financial statements and stock market data. Utilised Databricks for optimal data handling and integration.
+- **Investment Strategy**: Pioneered data analytics and machine learning methodologies to augment existing investment strategies, resulting in better financial outcomes.
+- **LLM Application for Finance**: Harnessing the power of Natural Language Processing (NLP) on news feeds, developed an application to represent individual stocks or companies. Employed embedding techniques to generate recommendations by measuring similarity between stocks or enterprises.
 
 ### Machine Learning Engineer - Skyscanner
 
