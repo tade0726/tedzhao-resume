@@ -157,11 +157,12 @@ Sep 2022 - Present
 ## SKILLS
 |  | |
 | --- |:---|
-| **Programming Languages** | Python, VBA, Scala, Julia |
-| **Web/Web Scraping** | Django, Flask, asyncio, Scrapy|
 | **AI/Machine Learning** | Reinforcement Learning, Deep Learning, Clustering, Lightgbm, XGBoost, SVM, Word2Vec|
+| **Data Engineer** | DBT, Databricks, Snowflakes |
 | **Data Science** | Tableau, A/B Testing, Statistics, Data Analysis |
+| **Programming Languages** | Python, VBA, Scala, Julia |
+| **MLOPS/Cloud** | AWS Sagemaker, Azure ML, AWS|
+| **Web/Web Scraping** | Django, Flask, asyncio, Scrapy|
 | **ETL** | SQL, SQLAlchemy, Spark, Pandas |
-| **Cloud** | AWS, AWS Sagemaker, Azure ML, Databricks|
 | **Version Control** | Git |
 | **Containerization** | Docker|
