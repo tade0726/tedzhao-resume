@@ -27,9 +27,19 @@ May 2023 – Now
     </span>
 </p>
 
-- **Data Pipeline**: Designed and executed streamlined ETL processes for the RAINMAKR.AI platform, with a specialised focus on financial statements and stock market data. Utilised Databricks for optimal data handling and integration.
-- **Investment Strategy**: Pioneered data analytics and machine learning methodologies to augment existing investment strategies, resulting in better financial outcomes.
-- **LLM Application for Finance**: Harnessing the power of Natural Language Processing (NLP) on news feeds, developed an application to represent individual stocks or companies. Employed embedding techniques to generate recommendations by measuring similarity between stocks or enterprises.
+- **Data Pipeline Development**
+  - Designed and executed streamlined ETL (Extract, Transform, Load) processes tailored for the RAINMAKR.AI platform, focusing on financial statements and stock market data.
+  - Utilized Databricks for enhanced data handling and integration, ensuring efficient data flow and storage.
+  - Implemented automation and monitoring in data pipelines using Dagster, and managed data transformation and modeling with DBT (Data Build Tool), optimizing the performance and reliability of data operations.
+
+- **Investment Strategy Enhancement**
+  - Led the integration of data analytics and machine learning techniques into the company's investment strategy framework, which significantly improved financial performance and decision-making processes.
+  - Conducted in-depth analysis of historical financial data to identify patterns and forecast market trends, aiding in the development of robust investment strategies.
+
+- **LLM Application for Financial Analysis**
+  - Developed an innovative application leveraging Natural Language Processing (NLP) to analyze and interpret news feeds, focusing on individual stocks and companies.
+  - Employed advanced embedding techniques to generate actionable recommendations, by measuring the semantic similarity between different stocks or companies, facilitating informed investment decisions.
+
 
 ### Machine Learning Engineer - Skyscanner
 
