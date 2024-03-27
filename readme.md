@@ -27,6 +27,7 @@ May 2023 – Now
     </span>
 </p>
 
+
 - **Data Pipeline Development**
   - Designed and executed streamlined ETL (Extract, Transform, Load) processes tailored for the RAINMAKR.AI platform, focusing on financial statements and stock market data.
   - Utilized Databricks for enhanced data handling and integration, ensuring efficient data flow and storage.
@@ -39,7 +40,6 @@ May 2023 – Now
 - **LLM Application for Financial Analysis**
   - Developed an innovative application leveraging Natural Language Processing (NLP) to analyze and interpret news feeds, focusing on individual stocks and companies.
   - Employed advanced embedding techniques to generate actionable recommendations, by measuring the semantic similarity between different stocks or companies, facilitating informed investment decisions.
-
 
 ### Machine Learning Engineer - Skyscanner
 
