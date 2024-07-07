@@ -2,7 +2,7 @@
 
 # TED ZHAO
 
-0416 551 622  ⋄  zp4work+job at gmail.com\
+416 551 622  ⋄  zp4work+job at gmail.com\
 10/4 Sheppards Lane, Norwood SA 5067, Australia\
 [linkedin.com/in/ted-zhao](https://linkedin.com/in/ted-zhao) ⋄ [github.com/tade0726](https://github.com/tade0726)
 
@@ -28,9 +28,12 @@ May 2023 – Now
 
 
 - **Data Pipeline Development**
-  - Engineered and optimized ETL processes tailored for financial datasets, enhancing accuracy and timeliness of financial reports and market data analysis.
-  - Implemented sophisticated automation and monitoring systems using Dagster, significantly improving reliability and efficiency of data operations.
-  - Leveraged Databricks within Azure environments to streamline data handling and integration, ensuring robust data flow and storage solutions that support large-scale analytics projects.
+  - **Data Models Design and SQL Optimization**: Engineered data models to facilitate financial evaluations across over 10 global stock markets, covering 10,000 companies, including quarterly financial reports, corporate actions, and stock price volatility. Integrated global indexes from various sources, enhancing data richness. Achieved a 50% reduction in runtime by optimizing SQL processes, effectively resolving bottlenecks in previous ETL workflows.
+
+  - **Data Orchestration with Dagster and DBT**: Transitioned existing Databricks DLT workflows to a comprehensive Dagster + DBT orchestration, establishing a full CI/CD pipeline for ETL development. Implemented staging and production environments with rigorous testing protocols. Developed templates for recurring data ingestion jobs and instituted monthly snapshots of key tables for data versioning, coupled with incremental updates to optimize performance.
+
+  - **Iteration and Balance Between Stability and Rapid Development**: Navigated the trade-offs between rapid delivery and stability within the financial sector by gradually transitioning from Databricks DLT to a more robust orchestration framework. Maintained flexibility for frequently updated pipelines using Databricks notebooks. Unified job management under Dagster, enhancing monitoring and notifications through Slack and email channels.
+
 
 - **LLM Application for Financial Analysis**
   - Developed an innovative application leveraging Natural Language Processing (NLP) to analyze and interpret news feeds, focusing on individual stocks and companies.
@@ -39,7 +42,7 @@ May 2023 – Now
 ### Machine Learning Engineer - Skyscanner
 
 <p style="text-align:left;font-style: italic">
-    Shenzhen, China (Collaborated with teams across the UK and Bulgaria)
+    Shenzhen, China (Collaborated with EU teams)
     <span style="float:right;font-style: italic">
         Nov 2019 - July 2021
     </span>
