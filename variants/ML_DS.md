@@ -17,6 +17,31 @@
 
 ## WORK EXPERIENCE
 
+### ML Engineer/Data Scientist - Skyscanner
+
+<p style="text-align:left;font-style: italic">
+    Shenzhen, China (Collaborated with EU teams)
+    <span style="float:right;font-style: italic">
+        Nov 2019 - July 2021
+    </span>
+</p>
+
+**Computer Vision / Deep Learning**
+
+Implemented deep learning models on hotel imagery to enhance the user experience, designing an efficient workflow for image collection and labeling critical for deploying computer vision technologies.
+- Leveraged ResNet to categorize hotel images into 20 detailed landscape and interior labels. Improved differentiation of similar categories by embedding nuanced business logic, resulting in a hierarchical labeling system that achieved **99% accuracy** in Top-5 predictions.
+- Utilized MobileNet to refine thumbnail selection for hotels, focusing on aesthetic appeal and detail. This approach evolved aesthetic evaluation from a single-dimensional to a multi-dimensional framework, using semantic analysis and object recognition to enhance image selection, culminating in a **+3% increase in click-through rate (CTR)** after implementing the new strategy.
+
+**Recommendation Systems**
+- Developed and continuously refined recommendation systems using iterative machine learning models, including Logistic Regression, LightGBM, and Deep Learning. This involved a comprehensive cycle of model development from data collection and feature engineering to training and deployment.
+- Implemented **Docker** for seamless end-to-end model deployment and development within an **AWS Sagemaker** environment, leading to a **5-10% increase in CTR** with each iteration.
+
+**ETL**
+- **Data Pipeline Architecture with Spark/Databricks**: Developed and deployed robust data pipelines utilizing Spark/Databricks, enhanced with AWS Lambda for dynamic feature generation and efficient data processing.
+- **Automated Workflow Design**: Crafted and implemented automated ETL workflows that support real-time analytics, significantly enhancing decision-making processes.
+- **Metrics and Features Generation**: Created a suite of critical metrics and features for model training and A/B testing, which markedly improved model accuracy and overall analytical performance.
+
+---
 ### ML/DATA Engineer - RAINMAKR.AI
 
 <p style="text-align:left;font-style: italic">
@@ -44,32 +69,6 @@ May 2023 – Now
 
 - Configured Dagster Cloud to manage schedules for over 20 interdependent jobs across various platforms, ensuring robust daily data partitioning. This setup guarantees comprehensive data availability and integrity from raw ingestion sources to final analytics readiness.
 
-
----
-
-### ML Engineer/Data Scientist - Skyscanner
-
-<p style="text-align:left;font-style: italic">
-    Shenzhen, China (Collaborated with EU teams)
-    <span style="float:right;font-style: italic">
-        Nov 2019 - July 2021
-    </span>
-</p>
-
-**Computer Vision / Deep Learning**
-
-Implemented deep learning models on hotel imagery to enhance the user experience, designing an efficient workflow for image collection and labeling critical for deploying computer vision technologies.
-- Leveraged ResNet to categorize hotel images into 20 detailed landscape and interior labels. Improved differentiation of similar categories by embedding nuanced business logic, resulting in a hierarchical labeling system that achieved **99% accuracy** in Top-5 predictions.
-- Utilized MobileNet to refine thumbnail selection for hotels, focusing on aesthetic appeal and detail. This approach evolved aesthetic evaluation from a single-dimensional to a multi-dimensional framework, using semantic analysis and object recognition to enhance image selection, culminating in a **+3% increase in click-through rate (CTR)** after implementing the new strategy.
-
-**Recommendation Systems**
-- Developed and continuously refined recommendation systems using iterative machine learning models, including Logistic Regression, LightGBM, and Deep Learning. This involved a comprehensive cycle of model development from data collection and feature engineering to training and deployment.
-- Implemented **Docker** for seamless end-to-end model deployment and development within an **AWS Sagemaker** environment, leading to a **5-10% increase in CTR** with each iteration.
-
-**ETL**
-- **Data Pipeline Architecture with Spark/Databricks**: Developed and deployed robust data pipelines utilizing Spark/Databricks, enhanced with AWS Lambda for dynamic feature generation and efficient data processing.
-- **Automated Workflow Design**: Crafted and implemented automated ETL workflows that support real-time analytics, significantly enhancing decision-making processes.
-- **Metrics and Features Generation**: Created a suite of critical metrics and features for model training and A/B testing, which markedly improved model accuracy and overall analytical performance.
 
 ---
 
