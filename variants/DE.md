@@ -157,7 +157,7 @@ Sep 2022 - Present
 |  | |
 | --- |:---|
 | **AI/Machine Learning** | Reinforcement Learning, Deep Learning, Clustering, Lightgbm, XGBoost, SVM, Word2Vec|
-| **Data Engineer** | DBT, Databricks, Snowflakes |
+| **Data Engineer** | DBT, Databricks, Snowflakes, Dagster|
 | **Data Science** | Tableau, A/B Testing, Statistics, Data Analysis |
 | **Programming Languages** | Python, VBA, Scala, Julia |
 | **MLOPS/Cloud** | AWS Sagemaker, Azure ML, AWS|
