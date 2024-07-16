@@ -28,16 +28,15 @@ May 2023 – Now
 
 
 - **Data Pipeline Development**
-  - **Data Models Design and SQL Optimization**: Engineered data models to facilitate financial evaluations across over 10 global stock markets, covering 10,000 companies, including quarterly financial reports, corporate actions, and stock price volatility. Integrated global indexes from various sources, enhancing data richness. Achieved a 50% reduction in runtime by optimizing SQL processes, effectively resolving bottlenecks in previous ETL workflows.
-
-  - **Data Orchestration with Dagster and DBT**: Transitioned existing Databricks DLT workflows to a comprehensive Dagster + DBT orchestration, establishing a full CI/CD pipeline for ETL development. Implemented staging and production environments with rigorous testing protocols. Developed templates for recurring data ingestion jobs and instituted monthly snapshots of key tables for data versioning, coupled with incremental updates to optimize performance.
-
-  - **Iteration and Balance Between Stability and Rapid Development**: Navigated the trade-offs between rapid delivery and stability within the financial sector by gradually transitioning from Databricks DLT to a more robust orchestration framework. Maintained flexibility for frequently updated pipelines using Databricks notebooks. Unified job management under Dagster, enhancing monitoring and notifications through Slack and email channels.
-
+  - **Data Model Design and SQL Optimization**: Led the engineering of data models for analyzing financial metrics across 10 global stock markets, covering 10,000 companies. Enhanced data richness by integrating global indexes and reduced SQL query runtimes by 50% through advanced optimizations.
+  
+  - **Data Orchestration with Dagster and DBT**: Oversaw the transition from Databricks DLT to Dagster + DBT orchestration, establishing a CI/CD pipeline for ETL processes. Implemented rigorous testing environments and developed scalable templates for data ingestion, significantly improving data handling and performance.
+  
+  - **Iteration and Stability in Financial Data Engineering**: Managed the trade-offs between rapid delivery and stability in a dynamic financial environment. Streamlined operations by integrating Databricks notebooks with Dagster for improved job management and operational monitoring, facilitating real-time updates via Slack and email alerts.
 
 - **LLM Application for Financial Analysis**
-  - Developed an innovative application leveraging Natural Language Processing (NLP) to analyze and interpret news feeds, focusing on individual stocks and companies.
-  - Employed advanced embedding techniques to generate actionable recommendations, by measuring the semantic similarity between different stocks or companies, facilitating informed investment decisions.
+  - **Natural Language Processing (NLP) Deployment**: Engineered a cutting-edge application utilizing NLP to meticulously analyze and interpret news feeds, targeting specific stocks and companies for strategic insights.
+  - **Advanced Embedding Techniques**: Applied sophisticated embedding methods to generate actionable investment recommendations by quantifying semantic similarities among stocks and companies, thereby enabling data-driven decision-making.
 
 ### Machine Learning Engineer - Skyscanner
 
@@ -49,9 +48,9 @@ May 2023 – Now
 </p>
 
 **ETL**
-- Architected and deployed data pipelines using **Spark/Databricks**, deploying spark job with **AWS Lambda** function for dynamic feature generation and data processing.
-- Designed automated workflows to extract, transform, and load data, enabling real-time analytics and enhanced decision-making capabilities.
-- Generated **a dozen key metrics and features** for model training and A/B testing analytics, significantly boosting model accuracy and performance.
+- **Data Pipeline Architecture with Spark/Databricks**: Developed and deployed robust data pipelines utilizing Spark/Databricks, enhanced with AWS Lambda for dynamic feature generation and efficient data processing.
+- **Automated Workflow Design**: Crafted and implemented automated ETL workflows that support real-time analytics, significantly enhancing decision-making processes.
+- **Metrics and Features Generation**: Created a suite of critical metrics and features for model training and A/B testing, which markedly improved model accuracy and overall analytical performance.
 
 **Recommendation Systems**
 - Developed and improved recommendation systems using iterative ML models (Logistic Regression / LightGBM / Deep learning).
