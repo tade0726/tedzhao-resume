@@ -9,11 +9,12 @@
 </center>
 
 
-## PROFILE
+## Data Engineer
 
-- ETL Pipeline Expertise: Designed and managed scalable ETL workflows in Azure using Databricks and Data Factory, enhancing data efficiency and quality for analytics.
-- Over 5 years of experience in Machine Learning and Data Science, specializing in recommendation systems and computer vision, delivering end-to-end ML solutions using Databricks/Spark, Docker, and Python.
-- Experienced in Python backend development, with familiarity in Django, Flask, and SQLAlchemy, for side projects and additional responsibilities.
+- Experienced Data Engineer with a proven track record in designing and optimizing data architectures to enhance business analytics and decision-making capabilities.
+- Expertise in ETL workflows and data orchestration, utilizing Azure, Databricks, and Data Factory to improve data efficiency and quality.
+- Led significant projects at RAINMAKR.AI and Skyscanner, focusing on advanced SQL optimizations and dynamic data pipeline development, which substantially reduced processing times and enhanced real-time analytics.
+- Skilled in transitioning data operations to modern platforms like Dagster and DBT, establishing scalable CI/CD pipelines that support extensive data handling and performance needs.
 
 ## WORK EXPERIENCE
 
