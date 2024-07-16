@@ -34,11 +34,11 @@ May 2023 – Now
 	- Explored the integration of alpha factors derived from robust financial domains with machine learning algorithms. This approach involved iterating from decision tree models to reinforcement learning, creating a comprehensive ML lifecycle encompassing data ingestion, feature engineering, model training, and prediction. The key innovation was the use of reinforcement learning to develop a unified framework that simultaneously directs both bidding strategies and investment amounts, optimizing portfolio management for enhanced yield.
 
 - **Data Pipeline Development**
-  - **Data Models Design and SQL Optimization**: Engineered data models to facilitate financial evaluations across over 10 global stock markets, covering 10,000 companies, including quarterly financial reports, corporate actions, and stock price volatility. Integrated global indexes from various sources, enhancing data richness. Achieved a 50% reduction in runtime by optimizing SQL processes, effectively resolving bottlenecks in previous ETL workflows.
-
-  - **Data Orchestration with Dagster and DBT**: Transitioned existing Databricks DLT workflows to a comprehensive Dagster + DBT orchestration, establishing a full CI/CD pipeline for ETL development. Implemented staging and production environments with rigorous testing protocols. Developed templates for recurring data ingestion jobs and instituted monthly snapshots of key tables for data versioning, coupled with incremental updates to optimize performance.
-
-  - **Iteration and Balance Between Stability and Rapid Development**: Navigated the trade-offs between rapid delivery and stability within the financial sector by gradually transitioning from Databricks DLT to a more robust orchestration framework. Maintained flexibility for frequently updated pipelines using Databricks notebooks. Unified job management under Dagster, enhancing monitoring and notifications through Slack and email channels.
+  - **Data Model Design and SQL Optimization**: Led the engineering of data models for analyzing financial metrics across 10 global stock markets, covering 10,000 companies. Enhanced data richness by integrating global indexes and reduced SQL query runtimes by 50% through advanced optimizations.
+  
+  - **Data Orchestration with Dagster and DBT**: Oversaw the transition from Databricks DLT to Dagster + DBT orchestration, establishing a CI/CD pipeline for ETL processes. Implemented rigorous testing environments and developed scalable templates for data ingestion, significantly improving data handling and performance.
+  
+  - **Iteration and Stability in Financial Data Engineering**: Managed the trade-offs between rapid delivery and stability in a dynamic financial environment. Streamlined operations by integrating Databricks notebooks with Dagster for improved job management and operational monitoring, facilitating real-time updates via Slack and email alerts.
 
 
 ### ML Engineer/Data Scientist - Skyscanner
@@ -61,8 +61,9 @@ Implemented deep learning models on hotel imagery to enhance the user experience
 - Implemented **Docker** for seamless end-to-end model deployment and development within an **AWS Sagemaker** environment, leading to a **5-10% increase in CTR** with each iteration.
 
 **ETL**
-- Architected and executed data pipelines using **Spark/Databricks**, incorporating **AWS Lambda** to dynamically generate features and process data.
-- Designed and automated ETL workflows, facilitating real-time analytics and enhanced decision-making. This initiative produced a dozen key metrics and features essential for robust model training and precise A/B testing analytics, significantly improving model accuracy and performance.
+- **Data Pipeline Architecture with Spark/Databricks**: Developed and deployed robust data pipelines utilizing Spark/Databricks, enhanced with AWS Lambda for dynamic feature generation and efficient data processing.
+- **Automated Workflow Design**: Crafted and implemented automated ETL workflows that support real-time analytics, significantly enhancing decision-making processes.
+- **Metrics and Features Generation**: Created a suite of critical metrics and features for model training and A/B testing, which markedly improved model accuracy and overall analytical performance.
 
 
 ### Data Scientist - DJI
