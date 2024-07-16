@@ -11,9 +11,10 @@
 
 ## Machine Learning Engineer / Data Scientist
 
-- Over 5 years of experience in Machine Learning and Data Science, specializing in recommendation systems and computer vision, delivering end-to-end ML solutions using Databricks/Spark, Docker, and Python.
-- ETL Pipeline Expertise: Designed and managed scalable ETL workflows in Azure using Databricks and Data Factory, enhancing data efficiency and quality for analytics.
-- Experienced in Python backend development, with familiarity in Django, Flask, and SQLAlchemy, for side projects and additional responsibilities.
+- Over 5 years of experience in Machine Learning and Data Science, specializing in finance, travel, and retail sectors. Demonstrates a robust ability to deliver end-to-end ML solutions enriched with deep business insights.
+- Extensive experience in developing computer vision solutions and building high-performance recommendation systems, notably for click-through rate models at Skyscanner.
+- Proven track record in customer segmentation analysis and demographic profiling, adept in conducting A/B testing. Capable of flexibly integrating various statistical and machine learning methods to derive user insights and support routine business monitoring.
+
 
 ## WORK EXPERIENCE
 
@@ -26,15 +27,18 @@
     </span>
 </p>
 
-**Computer Vision / Deep Learning**
-
-Implemented deep learning models on hotel imagery to enhance the user experience, designing an efficient workflow for image collection and labeling critical for deploying computer vision technologies.
-- Leveraged ResNet to categorize hotel images into 20 detailed landscape and interior labels. Improved differentiation of similar categories by embedding nuanced business logic, resulting in a hierarchical labeling system that achieved **99% accuracy** in Top-5 predictions.
-- Utilized MobileNet to refine thumbnail selection for hotels, focusing on aesthetic appeal and detail. This approach evolved aesthetic evaluation from a single-dimensional to a multi-dimensional framework, using semantic analysis and object recognition to enhance image selection, culminating in a **+3% increase in click-through rate (CTR)** after implementing the new strategy.
 
 **Recommendation Systems**
 - Developed and continuously refined recommendation systems using iterative machine learning models, including Logistic Regression, LightGBM, and Deep Learning. This involved a comprehensive cycle of model development from data collection and feature engineering to training and deployment.
 - Implemented **Docker** for seamless end-to-end model deployment and development within an **AWS Sagemaker** environment, leading to a **5-10% increase in CTR** with each iteration.
+  
+**Computer Vision / Deep Learning**
+
+Implemented deep learning models on hotel imagery to enhance the user experience in **Pytorch**, designing an efficient workflow for image collection and labeling critical for deploying computer vision technologies.
+
+- Leveraged ResNet to categorize hotel images into 20 detailed landscape and interior labels. Improved differentiation of similar categories by embedding nuanced business logic, resulting in a hierarchical labeling system that achieved **99% accuracy** in Top-5 predictions.
+- Utilized MobileNet to refine thumbnail selection for hotels, focusing on aesthetic appeal and detail. This approach evolved aesthetic evaluation from a single-dimensional to a multi-dimensional framework, using semantic analysis and object recognition to enhance image selection, culminating in a **+3% increase in click-through rate (CTR)** after implementing the new strategy.
+
 
 **ETL**
 - **Data Pipeline Architecture with Spark/Databricks**: Developed and deployed robust data pipelines utilizing Spark/Databricks, enhanced with AWS Lambda for dynamic feature generation and efficient data processing.
