@@ -2,7 +2,7 @@
 
 # TED ZHAO
 
-0416 551 622  ⋄  zp4work+job at gmail.com\
+416 551 622  ⋄  zp4work+job at gmail.com\
 10/4 Sheppards Lane, Norwood SA 5067, Australia\
 [linkedin.com/in/ted-zhao](https://linkedin.com/in/ted-zhao) ⋄ [github.com/tade0726](https://github.com/tade0726)
 
@@ -11,14 +11,13 @@
 
 ## PROFILE
 
-- Over 5 years of experience in Machine Learning and Data Science, specializing in recommendation systems and computer vision.
-- Experienced in delivering end-to-end ML solutions using Databricks/Spark, Docker, and Python.
-- Skilled in conducting AB tests and tracking metrics for real-world business applications.
+- ETL Pipeline Expertise: Designed and managed scalable ETL workflows in Azure using Databricks and Data Factory, enhancing data efficiency and quality for analytics.
+- Over 5 years of experience in Machine Learning and Data Science, specializing in recommendation systems and computer vision, delivering end-to-end ML solutions using Databricks/Spark, Docker, and Python.
 - Experienced in Python backend development, with familiarity in Django, Flask, and SQLAlchemy, for side projects and additional responsibilities.
 
 ## WORK EXPERIENCE
 
-### Data/AI Engineer - RAINMAKR.AI
+### ML/DATA Engineer - RAINMAKR.AI
 
 <p style="text-align:left;font-style: italic">
     Sydney, NSW(remote)
@@ -27,73 +26,44 @@ May 2023 – Now
     </span>
 </p>
 
+- **LLM Application for Financial Analysis**
+  - **Semantic Analysis**: Implemented advanced semantic analysis using LLMs for prompt engineering. Developed customized prompts to accurately categorize company descriptions and news feeds, facilitating the extraction of GICS-like themes. This process enhances the understanding of company genres and industries, providing a structured overview of corporate landscapes.
+  - **RAG Graph with LLM**: Pioneered the development of a knowledge graph utilizing LLM's robust parsing capabilities. Analyzed and extracted a variety of entities and their relationships from company news and descriptions, including executives, competitors, and product logistics chains. This information was integrated into a graph database, supporting a Retrieval-Augmented Generation (RAG) system for enhanced information retrieval and decision-making accuracy in financial contexts.
+
+- **Developing finaicial strategy with ML algorithem**
+	- Explored the integration of alpha factors derived from robust financial domains with machine learning algorithms. This approach involved iterating from decision tree models to reinforcement learning, creating a comprehensive ML lifecycle encompassing data ingestion, feature engineering, model training, and prediction. The key innovation was the use of reinforcement learning to develop a unified framework that simultaneously directs both bidding strategies and investment amounts, optimizing portfolio management for enhanced yield.
 
 - **Data Pipeline Development**
-  - Designed and executed streamlined ETL (Extract, Transform, Load) processes tailored for the RAINMAKR.AI platform, focusing on financial statements and stock market data.
-  - Utilized Databricks for enhanced data handling and integration, ensuring efficient data flow and storage.
-  - Implemented automation and monitoring in data pipelines using Dagster, and managed data transformation and modeling with DBT (Data Build Tool), optimizing the performance and reliability of data operations.
+  - **Data Model Design and SQL Optimization**: Led the engineering of data models for analyzing financial metrics across 10 global stock markets, covering 10,000 companies. Enhanced data richness by integrating global indexes and reduced SQL query runtimes by 50% through advanced optimizations.
+  
+  - **Data Orchestration with Dagster and DBT**: Oversaw the transition from Databricks DLT to Dagster + DBT orchestration, establishing a CI/CD pipeline for ETL processes. Implemented rigorous testing environments and developed scalable templates for data ingestion, significantly improving data handling and performance.
+  
+  - **Iteration and Stability in Financial Data Engineering**: Managed the trade-offs between rapid delivery and stability in a dynamic financial environment. Streamlined operations by integrating Databricks notebooks with Dagster for improved job management and operational monitoring, facilitating real-time updates via Slack and email alerts.
 
-- **Investment Strategy Enhancement**
-  - Led the integration of data analytics and machine learning techniques into the company's investment strategy framework, which significantly improved financial performance and decision-making processes.
-  - Conducted in-depth analysis of historical financial data to identify patterns and forecast market trends, aiding in the development of robust investment strategies.
 
-- **LLM Application for Financial Analysis**
-  - Developed an innovative application leveraging Natural Language Processing (NLP) to analyze and interpret news feeds, focusing on individual stocks and companies.
-  - Employed advanced embedding techniques to generate actionable recommendations, by measuring the semantic similarity between different stocks or companies, facilitating informed investment decisions.
-
-### Machine Learning Engineer - Skyscanner
+### ML Engineer/Data Scientist - Skyscanner
 
 <p style="text-align:left;font-style: italic">
-    Shenzhen, China (Collaborated with teams across the UK and Bulgaria)
+    Shenzhen, China (Collaborated with EU teams)
     <span style="float:right;font-style: italic">
         Nov 2019 - July 2021
     </span>
 </p>
 
-**Recommendation Systems**
-- Developed and improved recommendation systems using iterative ML models (Logistic Regression / LightGBM / Deep learning).
-- Utilized **Docker** for end-to-end model delivery with **AWS Sagemaker** environment, resulting in a **+5-10% increase in CTR** with each iteration.
-
 **Computer Vision / Deep Learning**
-- Applied Deep learning models to hotel images to enhance user experience.
-- Employed ResNet for categorizing hotel images into 20 landscape/interior labels, achieving **99% accuracy** in Top-5 predictions.
-- Utilized MobileNet to select thumbnails for hotels, resulting in a **+3% increase in CTR**.
 
-**A/B Testing**
-- Performed AB test analysis for car-hire and hotel search pages.
-- Achieved **10X growth** in car-hire during the pandemic.
-- Built data dashboards in Tableau and Databricks for stakeholder reference.
+Implemented deep learning models on hotel imagery to enhance the user experience, designing an efficient workflow for image collection and labeling critical for deploying computer vision technologies.
+- Leveraged ResNet to categorize hotel images into 20 detailed landscape and interior labels. Improved differentiation of similar categories by embedding nuanced business logic, resulting in a hierarchical labeling system that achieved **99% accuracy** in Top-5 predictions.
+- Utilized MobileNet to refine thumbnail selection for hotels, focusing on aesthetic appeal and detail. This approach evolved aesthetic evaluation from a single-dimensional to a multi-dimensional framework, using semantic analysis and object recognition to enhance image selection, culminating in a **+3% increase in click-through rate (CTR)** after implementing the new strategy.
+
+**Recommendation Systems**
+- Developed and continuously refined recommendation systems using iterative machine learning models, including Logistic Regression, LightGBM, and Deep Learning. This involved a comprehensive cycle of model development from data collection and feature engineering to training and deployment.
+- Implemented **Docker** for seamless end-to-end model deployment and development within an **AWS Sagemaker** environment, leading to a **5-10% increase in CTR** with each iteration.
 
 **ETL**
-- Designed and implemented data pipelines in Spark/Databricks.
-- Generated **a dozen key metrics and features** to train models and conduct AB testing analytics.
-
-
-### Data Scientist - Smart Decision Technology Ltd
-
-<p style="text-align:left;font-style: italic">
-Shenzhen, China
-    <span style="float:right;font-style: italic">
-[Aug 2015 - Mar 2018]
-    </span>
-</p>
-
-**Simulation**
-- Designed and implemented a Python-based simulation system for S.F. Express.
-- Leveraged **SimPy** to accurately model the conveyor system within the Distribution Centre.
-- Created an intuitive front-end interface, enabling business users to input site designs and parameters with ease.
-- Developed a robust back-end service using **Flask**, which stored simulation parameters and results for each iteration, utilizing **SQLAlchemy** for efficient model management.
-- The solution surpassed three competitors in terms of speed and adaptability, securing a **2-year contract** with S.F. Express.
-
-**Credit Risk Modeling**
-- Designed credit scorecard workflows using Python to replace SAS.
-- Created **feature selection, binning, and WOE calculation** in Python.
-- Converted the logistics model into scorecards in Python.
-
-**Segment Analysis / NLP**
-- Delivered client segment reports for Hong Kong Jockey Club.
-- Created segment analysis using clustering and generated data diagrams and charts in reports.
-- Built **sentiment analysis using Word2Vec** on mixed Cantonese and English restaurant reviews.
+- **Data Pipeline Architecture with Spark/Databricks**: Developed and deployed robust data pipelines utilizing Spark/Databricks, enhanced with AWS Lambda for dynamic feature generation and efficient data processing.
+- **Automated Workflow Design**: Crafted and implemented automated ETL workflows that support real-time analytics, significantly enhancing decision-making processes.
+- **Metrics and Features Generation**: Created a suite of critical metrics and features for model training and A/B testing, which markedly improved model accuracy and overall analytical performance.
 
 
 ### Data Scientist - DJI
@@ -105,19 +75,44 @@ April 2018 - Aug 2018
     </span>
 </p>
 
-**Competitive Analysis** 
-- Provided support for a comprehensive campaign through competitive analysis.
-- Scraped retail location data from competitors with **Scrapy**.
+**Pre-sale Competitive Analysis for an Educational Product**
+- Supported a comprehensive marketing campaign by conducting an in-depth competitive analysis.
+	- Analyzed the demographics of dozens of potential cities in China, assessing factors such as economic conditions and demographic data, supplemented with competitor information regarding the location and distribution of their stores.
+    - Developed a customized ranking strategy/algorithm to prioritize our distribution across target cities, incorporating both quantitative data and intuitive business factors.
+- Collected all relevant data independently using a custom web crawler built with **Scrapy** in Python.
 
-**Data Reports**
-- Analyzed collected dataset to identify patterns and insights for the campaign team.
-- Translated findings into actionable recommendations.
-- Empowered stakeholders to make informed decisions and optimize the product launch strategy.
+**Data Reports for Sales Monitoring**
+- Continuously monitored sales post-product launch, analyzing internal data on user demographics, including location, income, and age, to create detailed customer segment analyses.
+- Analyzed datasets to identify patterns and insights, supporting the campaign team in strategic planning.
+- Provided stakeholders with critical data and analysis, empowering informed decision-making and optimizing the product launch strategy.
 
-**Django** 
-- Developed a Django-based API for Jupyter integration extension, enabling seamless SQL querying and data model management.
-- Designed the API to facilitate Jupyter extension integration for streamlined SQL query execution.
-- Maintained data models using Django and SQLAlchemy, ensuring standardized datasets across the platform.
+**Django Development**
+- Developed a Django-based API for a Jupyter integration extension, enabling seamless SQL querying and data model management.
+- Designed the API to enhance Jupyter extension capabilities for efficient SQL query execution.
+- Managed and standardized data models using Django and SQLAlchemy, ensuring data consistency across the platform.
+
+
+### Data Scientist - Smart Decision Technology Ltd
+
+<p style="text-align:left;font-style: italic">
+Shenzhen, China
+    <span style="float:right;font-style: italic">
+[Aug 2015 - Mar 2018]
+    </span>
+</p>
+
+**Credit Risk Modeling**
+- Designed credit scorecard workflows using Python to replace SAS.
+- Created **feature selection, binning, and WOE calculation** in Python.
+- Converted the logistics model into scorecards in Python.
+
+**Simulation**
+- Designed and implemented a Python-based simulation system for S.F. Express.
+- Leveraged **SimPy** to accurately model the conveyor system within the Distribution Centre.
+- Created an intuitive front-end interface, enabling business users to input site designs and parameters with ease.
+- Developed a robust back-end service using **Flask**, which stored simulation parameters and results for each iteration, utilizing **SQLAlchemy** for efficient model management.
+- The solution surpassed three competitors in terms of speed and adaptability, securing a **2-year contract** with S.F. Express.
+
 
 
 ## RESEARCH PROJECT
