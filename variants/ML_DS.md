@@ -2,7 +2,7 @@
 
 # TED ZHAO
 
-416 551 622  ⋄  zp4work+job at gmail.com\
+416-551-622  ⋄  zp4work@gmail.com\
 10/4 Sheppards Lane, Norwood SA 5067, Australia\
 [linkedin.com/in/ted-zhao](https://linkedin.com/in/ted-zhao) ⋄ [github.com/tade0726](https://github.com/tade0726)
 
@@ -26,20 +26,26 @@ May 2023 – Now
     </span>
 </p>
 
-- **LLM Application for Financial Analysis**
-  - **Semantic Analysis**: Implemented advanced semantic analysis using LLMs for prompt engineering. Developed customized prompts to accurately categorize company descriptions and news feeds, facilitating the extraction of GICS-like themes. This process enhances the understanding of company genres and industries, providing a structured overview of corporate landscapes.
-  - **RAG Graph with LLM**: Pioneered the development of a knowledge graph utilizing LLM's robust parsing capabilities. Analyzed and extracted a variety of entities and their relationships from company news and descriptions, including executives, competitors, and product logistics chains. This information was integrated into a graph database, supporting a Retrieval-Augmented Generation (RAG) system for enhanced information retrieval and decision-making accuracy in financial contexts.
+**LLM Application for Financial Analysis**
 
-- **Developing finaicial strategy with ML algorithem**
-	- Explored the integration of alpha factors derived from robust financial domains with machine learning algorithms. This approach involved iterating from decision tree models to reinforcement learning, creating a comprehensive ML lifecycle encompassing data ingestion, feature engineering, model training, and prediction. The key innovation was the use of reinforcement learning to develop a unified framework that simultaneously directs both bidding strategies and investment amounts, optimizing portfolio management for enhanced yield.
+- **Semantic Analysis**: Implemented advanced semantic analysis using LLMs for prompt engineering. Developed customized prompts to accurately categorize company descriptions and news feeds, facilitating the extraction of GICS-like themes. This process enhances the understanding of company genres and industries, providing a structured overview of corporate landscapes.
+- **RAG Graph with LLM**: Pioneered the development of a knowledge graph utilizing LLM's robust parsing capabilities. Analyzed and extracted a variety of entities and their relationships from company news and descriptions, including executives, competitors, and product logistics chains. This information was integrated into a graph database, supporting a Retrieval-Augmented Generation (RAG) system for enhanced information retrieval and decision-making accuracy in financial contexts.
 
-- **Data Pipeline Development**
-  - **Data Model Design and SQL Optimization**: Led the engineering of data models for analyzing financial metrics across 10 global stock markets, covering 10,000 companies. Enhanced data richness by integrating global indexes and reduced SQL query runtimes by 50% through advanced optimizations.
-  
-  - **Data Orchestration with Dagster and DBT**: Oversaw the transition from Databricks DLT to Dagster + DBT orchestration, establishing a CI/CD pipeline for ETL processes. Implemented rigorous testing environments and developed scalable templates for data ingestion, significantly improving data handling and performance.
-  
-  - **Iteration and Stability in Financial Data Engineering**: Managed the trade-offs between rapid delivery and stability in a dynamic financial environment. Streamlined operations by integrating Databricks notebooks with Dagster for improved job management and operational monitoring, facilitating real-time updates via Slack and email alerts.
 
+**Developing finaicial strategy with ML algorithem**
+
+- Explored the integration of alpha factors derived from robust financial domains with machine learning algorithms. This approach involved iterating from decision tree models to reinforcement learning, creating a comprehensive ML lifecycle encompassing data ingestion, feature engineering, model training, and prediction. The key innovation was the use of reinforcement learning to develop a unified framework that simultaneously directs both bidding strategies and investment amounts, optimizing portfolio management for enhanced yield.
+
+**Data Pipeline Development**
+
+- Engineered and deployed complex data models for deep analysis of financial metrics across 10 global stock markets, handling terabytes of data. Achieved a 50% reduction in SQL query runtimes and enhanced data richness by integrating global indexes with advanced optimization techniques.
+
+- Directed the strategic transition from Databricks Delta Lake to a more robust Dagster + DBT architecture, establishing a continuous integration and deployment (CI/CD) pipeline for ETL processes. Developed scalable templates for data ingestion, significantly enhancing data handling and system performance. Implemented incremental updates and snapshot tables with Slowly Changing Dimensions (SCD) to ensure efficient data versioning and recovery.
+
+- Configured Dagster Cloud to manage schedules for over 20 interdependent jobs across various platforms, ensuring robust daily data partitioning. This setup guarantees comprehensive data availability and integrity from raw ingestion sources to final analytics readiness.
+
+
+---
 
 ### ML Engineer/Data Scientist - Skyscanner
 
@@ -65,6 +71,7 @@ Implemented deep learning models on hotel imagery to enhance the user experience
 - **Automated Workflow Design**: Crafted and implemented automated ETL workflows that support real-time analytics, significantly enhancing decision-making processes.
 - **Metrics and Features Generation**: Created a suite of critical metrics and features for model training and A/B testing, which markedly improved model accuracy and overall analytical performance.
 
+---
 
 ### Data Scientist - DJI
 
@@ -91,6 +98,7 @@ April 2018 - Aug 2018
 - Designed the API to enhance Jupyter extension capabilities for efficient SQL query execution.
 - Managed and standardized data models using Django and SQLAlchemy, ensuring data consistency across the platform.
 
+---
 
 ### Data Scientist - Smart Decision Technology Ltd
 
@@ -114,7 +122,6 @@ Shenzhen, China
 - The solution surpassed three competitors in terms of speed and adaptability, securing a **2-year contract** with S.F. Express.
 
 
-
 ## RESEARCH PROJECT
 
 ### Quantitative Trading with Reinforcement Learning - The University of Adelaide
@@ -122,7 +129,7 @@ Shenzhen, China
 <p style="text-align:left;font-style: italic">
 Adelaide, SA, Australia
     <span style="float:right;font-style: italic">
-Sep 2022 - Present
+Sep 2022 - Feb 2023
     </span>
 </p>
 

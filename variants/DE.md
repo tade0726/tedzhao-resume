@@ -2,7 +2,7 @@
 
 # TED ZHAO
 
-416 551 622  ⋄  zp4work+job at gmail.com\
+416-551-622  ⋄  zp4work@gmail.com\
 10/4 Sheppards Lane, Norwood SA 5067, Australia\
 [linkedin.com/in/ted-zhao](https://linkedin.com/in/ted-zhao) ⋄ [github.com/tade0726](https://github.com/tade0726)
 
@@ -11,10 +11,10 @@
 
 ## Data Engineer
 
-- Experienced Data Engineer with a proven track record in designing and optimizing data architectures to enhance business analytics and decision-making capabilities.
-- Expertise in ETL workflows and data orchestration, utilizing Azure, Databricks, and Data Factory to improve data efficiency and quality.
-- Led significant projects at RAINMAKR.AI and Skyscanner, focusing on advanced SQL optimizations and dynamic data pipeline development, which substantially reduced processing times and enhanced real-time analytics.
+- Expertise in ETL workflows and data orchestration, familiar with Azure, AWS and Databricks to create full data circle, data ingesting, data transformation, data enrichment and refined for advanced analysis.
 - Skilled in transitioning data operations to modern platforms like Dagster and DBT, establishing scalable CI/CD pipelines that support extensive data handling and performance needs.
+- Led significant projects at RAINMAKR.AI and Skyscanner, focusing on advanced SQL optimizations and dynamic data pipeline development, which substantially reduced processing times and enhanced real-time analytics.
+
 
 ## WORK EXPERIENCE
 
@@ -28,16 +28,21 @@ May 2023 – Now
 </p>
 
 
-- **Data Pipeline Development**
-  - **Data Model Design and SQL Optimization**: Led the engineering of data models for analyzing financial metrics across 10 global stock markets, covering 10,000 companies. Enhanced data richness by integrating global indexes and reduced SQL query runtimes by 50% through advanced optimizations.
-  
-  - **Data Orchestration with Dagster and DBT**: Oversaw the transition from Databricks DLT to Dagster + DBT orchestration, establishing a CI/CD pipeline for ETL processes. Implemented rigorous testing environments and developed scalable templates for data ingestion, significantly improving data handling and performance.
-  
-  - **Iteration and Stability in Financial Data Engineering**: Managed the trade-offs between rapid delivery and stability in a dynamic financial environment. Streamlined operations by integrating Databricks notebooks with Dagster for improved job management and operational monitoring, facilitating real-time updates via Slack and email alerts.
+**Data Pipeline Development**
 
-- **LLM Application for Financial Analysis**
-  - **Natural Language Processing (NLP) Deployment**: Engineered a cutting-edge application utilizing NLP to meticulously analyze and interpret news feeds, targeting specific stocks and companies for strategic insights.
-  - **Advanced Embedding Techniques**: Applied sophisticated embedding methods to generate actionable investment recommendations by quantifying semantic similarities among stocks and companies, thereby enabling data-driven decision-making.
+- Engineered and deployed complex data models for deep analysis of financial metrics across 10 global stock markets, handling terabytes of data. Achieved a 50% reduction in SQL query runtimes and enhanced data richness by integrating global indexes with advanced optimization techniques.
+
+- Directed the strategic transition from Databricks Delta Lake to a more robust Dagster + DBT architecture, establishing a continuous integration and deployment (CI/CD) pipeline for ETL processes. Developed scalable templates for data ingestion, significantly enhancing data handling and system performance. Implemented incremental updates and snapshot tables with Slowly Changing Dimensions (SCD) to ensure efficient data versioning and recovery.
+
+- Configured Dagster Cloud to manage schedules for over 20 interdependent jobs across various platforms, ensuring robust daily data partitioning. This setup guarantees comprehensive data availability and integrity from raw ingestion sources to final analytics readiness.
+
+**LLM Application for Financial Analysis**
+
+- Engineered  utilizing NLP to meticulously analyze and interpret news feeds, targeting specific stocks and companies for strategic insights.
+- Applied sophisticated embedding methods to generate actionable investment recommendations by quantifying semantic similarities among stocks and companies, thereby enabling data-driven decision-making.
+
+
+---
 
 ### Machine Learning Engineer - Skyscanner
 
@@ -49,9 +54,9 @@ May 2023 – Now
 </p>
 
 **ETL**
-- **Data Pipeline Architecture with Spark/Databricks**: Developed and deployed robust data pipelines utilizing Spark/Databricks, enhanced with AWS Lambda for dynamic feature generation and efficient data processing.
-- **Automated Workflow Design**: Crafted and implemented automated ETL workflows that support real-time analytics, significantly enhancing decision-making processes.
-- **Metrics and Features Generation**: Created a suite of critical metrics and features for model training and A/B testing, which markedly improved model accuracy and overall analytical performance.
+-  Developed and deployed robust data pipelines utilizing Spark/Databricks, enhanced with AWS Lambda for dynamic feature generation and efficient data processing.
+- Crafted and implemented automated ETL workflows that support real-time analytics, significantly enhancing decision-making processes.
+- Created a suite of critical metrics and features for model training and A/B testing, which markedly improved model accuracy and overall analytical performance.
 
 **Recommendation Systems**
 - Developed and improved recommendation systems using iterative ML models (Logistic Regression / LightGBM / Deep learning).
@@ -62,28 +67,7 @@ May 2023 – Now
 - Employed ResNet for categorizing hotel images into 20 landscape/interior labels, achieving **99% accuracy** in Top-5 predictions.
 - Utilized MobileNet to select thumbnails for hotels, resulting in a **+3% increase in CTR**.
 
-
-### Data Scientist - Smart Decision Technology Ltd
-
-<p style="text-align:left;font-style: italic">
-Shenzhen, China
-    <span style="float:right;font-style: italic">
-[Aug 2015 - Mar 2018]
-    </span>
-</p>
-
-**Simulation**
-- Designed and implemented a Python-based simulation system for S.F. Express.
-- Leveraged **SimPy** to accurately model the conveyor system within the Distribution Centre.
-- Created an intuitive front-end interface, enabling business users to input site designs and parameters with ease.
-- Developed a robust back-end service using **Flask**, which stored simulation parameters and results for each iteration, utilizing **SQLAlchemy** for efficient model management.
-- The solution surpassed three competitors in terms of speed and adaptability, securing a **2-year contract** with S.F. Express.
-
-**Credit Risk Modeling**
-- Designed credit scorecard workflows using Python to replace SAS.
-- Created **feature selection, binning, and WOE calculation** in Python.
-- Converted the logistics model into scorecards in Python.
-
+---
 
 ### Data Scientist - DJI
 
@@ -107,27 +91,6 @@ April 2018 - Aug 2018
 - Developed a Django-based API for Jupyter integration extension, enabling seamless SQL querying and data model management.
 - Designed the API to facilitate Jupyter extension integration for streamlined SQL query execution.
 - Maintained data models using Django and SQLAlchemy, ensuring standardized datasets across the platform.
-
-
-## RESEARCH PROJECT
-
-### Quantitative Trading with Reinforcement Learning - The University of Adelaide
-
-<p style="text-align:left;font-style: italic">
-Adelaide, SA, Australia
-    <span style="float:right;font-style: italic">
-Sep 2022 - Present
-    </span>
-</p>
-
-**Reinforcement Learning** 
-- Conducting a research project while pursuing a master's degree in Machine Learning at The University of Adelaide.
-- Developed a trading strategy for the Crypto market using **Reinforcement Learning**.
-- Designed a reward system with Sharp Ratio, where actions were the next sell/buy quantity of all assets.
-- Created **two Deep Learning modules** to capture price signals and market sentiment.
-
-**Back Testing** 
-- Developed a back-test with metrics **Sharp Ratio, Maximum Drawdown(MDD)** and presented profit curves with plots, considering fees and compound returns.
 
 
 ## Education
