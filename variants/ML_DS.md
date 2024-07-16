@@ -9,7 +9,7 @@
 </center>
 
 
-## PROFILE
+## Machine Learning Engineer / Data Scientist
 
 - Over 5 years of experience in Machine Learning and Data Science, specializing in recommendation systems and computer vision, delivering end-to-end ML solutions using Databricks/Spark, Docker, and Python.
 - ETL Pipeline Expertise: Designed and managed scalable ETL workflows in Azure using Databricks and Data Factory, enhancing data efficiency and quality for analytics.
