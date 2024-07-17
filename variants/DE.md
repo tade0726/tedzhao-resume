@@ -83,8 +83,8 @@ Developing and maintaining data flows supplementing the recommendation system
 |  | Proficiency |
 | --- | ---: |
 | English | IELTS 7.0 |
-| Mandarin (Chinese) | Native |
-| Cantonese (Chinese) | Native |
+| Mandarin | Native |
+| Cantonese | Native |
 
 ## SKILLS
 |  | |

@@ -165,8 +165,9 @@ Sep 2022 - Feb 2023
 |  | Proficiency |
 | --- | ---: |
 | English | IELTS 7.0 |
-| Mandarin (Chinese) | Native |
-| Cantonese (Chinese) | Native |
+| Mandarin | Native |
+| Cantonese | Native |
+
 
 ## SKILLS
 |  | |
