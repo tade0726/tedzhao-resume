@@ -52,7 +52,6 @@ Developing and maintaining data flows supplementing the recommendation system
 - Developed and maintained T+1 batch data processes, capturing long-term patterns in user behaviors. Utilized AWS Lambda to trigger Python scripts written in PySpark, storing data in Parquet format within a Databricks environment. This setup supports both model training and real-time inference needs.
 - Engineered a real-time data streaming solution capturing user log data from Elasticsearch, facilitating the immediate tracking of user click behaviors. Implemented a Redis key-value store for rapid data access, integrating this stream with batch data to enhance the real-time data feed for inference. This integration improved the Click-Through Rate (CTR) by 2%, significantly impacting core profitability metrics.
 
-
 **Recommendation Systems**
 - Developed and improved recommendation systems using iterative ML models (Logistic Regression / LightGBM / Deep learning).
 - Utilized **Docker** for end-to-end model delivery with **AWS Sagemaker** environment, resulting in a **+5-10% increase in CTR** with each iteration.
@@ -61,6 +60,10 @@ Developing and maintaining data flows supplementing the recommendation system
 - Applied Deep learning models to hotel images to enhance user experience.
 - Employed ResNet for categorizing hotel images into 20 landscape/interior labels, achieving **99% accuracy** in Top-5 predictions.
 - Utilized MobileNet to select thumbnails for hotels, resulting in a **+3% increase in CTR**.
+
+
+<br/><br/>
+<br/><br/>
 
 
 ## Education
