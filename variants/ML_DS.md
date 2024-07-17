@@ -39,9 +39,10 @@ Implemented deep learning models on hotel imagery to enhance the user experience
 - Implemented **Docker** for seamless end-to-end model deployment and development within an **AWS Sagemaker** environment, leading to a **5-10% increase in CTR** with each iteration.
   
 **ETL**
-- **Data Pipeline Architecture with Spark/Databricks**: Developed and deployed robust data pipelines utilizing Spark/Databricks, enhanced with AWS Lambda for dynamic feature generation and efficient data processing.
-- **Automated Workflow Design**: Crafted and implemented automated ETL workflows that support real-time analytics, significantly enhancing decision-making processes.
-- **Metrics and Features Generation**: Created a suite of critical metrics and features for model training and A/B testing, which markedly improved model accuracy and overall analytical performance.
+Developing and maintaining data flows supplementing the recommendation system
+
+- Developed and maintained T+1 batch data processes, capturing long-term patterns in user behaviors. Utilized AWS Lambda to trigger Python scripts written in PySpark, storing data in Parquet format within a Databricks environment. This setup supports both model training and real-time inference needs.
+- Engineered a real-time data streaming solution capturing user log data from Elasticsearch, facilitating the immediate tracking of user click behaviors. Implemented a Redis key-value store for rapid data access, integrating this stream with batch data to enhance the real-time data feed for inference. This integration improved the Click-Through Rate (CTR) by 2%, significantly impacting core profitability metrics.
 
 ---
 ### ML/DATA Engineer - RAINMAKR.AI
@@ -63,13 +64,13 @@ May 2023 – Now
 
 - Explored the integration of alpha factors derived from robust financial domains with machine learning algorithms. This approach involved iterating from decision tree models to reinforcement learning, creating a comprehensive ML lifecycle encompassing data ingestion, feature engineering, model training, and prediction. The key innovation was the use of reinforcement learning to develop a unified framework that simultaneously directs both bidding strategies and investment amounts, optimizing portfolio management for enhanced yield.
 
-**Data Pipeline Development**
+**ETL**
 
-- Engineered and deployed complex data models for deep analysis of financial metrics across 10 global stock markets, handling terabytes of data. Achieved a 50% reduction in SQL query runtimes and enhanced data richness by integrating global indexes with advanced optimization techniques.
-
-- Directed the strategic transition from Databricks Delta Lake to a more robust Dagster + DBT architecture, establishing a continuous integration and deployment (CI/CD) pipeline for ETL processes. Developed scalable templates for data ingestion, significantly enhancing data handling and system performance. Implemented incremental updates and snapshot tables with Slowly Changing Dimensions (SCD) to ensure efficient data versioning and recovery.
-
-- Configured Dagster Cloud to manage schedules for over 20 interdependent jobs across various platforms, ensuring robust daily data partitioning. This setup guarantees comprehensive data availability and integrity from raw ingestion sources to final analytics readiness.
+- Reduced original schema size by over 50% by designing and simplifying data models involving 30+ tables using the DBT framework, enhancing maintainability and system performance.
+- Aligned date ranges across various data models to minimize batch data volumes, transforming disorganized schemas into deduplicated, well-documented models. Achieved a 15% reduction in redundant data storage, enhancing data retrieval efficiency.
+- Conducted thorough analysis to identify and resolve bottlenecks in data flow. Improved system efficiency by re-indexing and aligning data types of join keys, and refining join conditions, resulting in a 50% reduction in query runtime.
+- Implemented Slowly Changing Dimensions (SCD) principles to create reliable backup checkpoints, ensuring data integrity in catastrophic scenarios. Introduced an incremental update strategy for table ingestion, saving 10% in data ingestion time.
+- Integrated DBT with Dagster Cloud to develop a mixed orchestration framework combining notebook and DBT jobs. This approach unified heterogeneous data streams, enhancing the user interface and overall data presentation within the DBT framework.
 
 
 ---

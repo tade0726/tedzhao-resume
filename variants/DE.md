@@ -11,14 +11,14 @@
 
 ## Data Engineer
 
-- Expertise in ETL workflows and data orchestration, familiar with Azure, AWS and Databricks to create full data circle, data ingesting, data transformation, data enrichment and refined for advanced analysis.
+- 3+ year of experiences in ETL workflows and data orchestration, familiar with Azure, AWS and Databricks to create full data circle, data ingesting, data transformation, data enrichment and refined for advanced analysis.
 - Skilled in transitioning data operations to modern platforms like Dagster and DBT, establishing scalable CI/CD pipelines that support extensive data handling and performance needs.
 - Led significant projects at RAINMAKR.AI and Skyscanner, focusing on advanced SQL optimizations and dynamic data pipeline development, which substantially reduced processing times and enhanced real-time analytics.
 
 
 ## WORK EXPERIENCE
 
-### Data/AI Engineer - RAINMAKR.AI
+### Data/AI Engineer - Rainmakr.ai
 
 <p style="text-align:left;font-style: italic">
     Sydney, NSW(remote)
@@ -27,19 +27,11 @@ May 2023 – Now
     </span>
 </p>
 
-
-**Data Pipeline Development**
-
-- Engineered and deployed complex data models for deep analysis of financial metrics across 10 global stock markets, handling terabytes of data. Achieved a 50% reduction in SQL query runtimes and enhanced data richness by integrating global indexes with advanced optimization techniques.
-
-- Directed the strategic transition from Databricks Delta Lake to a more robust Dagster + DBT architecture, establishing a continuous integration and deployment (CI/CD) pipeline for ETL processes. Developed scalable templates for data ingestion, significantly enhancing data handling and system performance. Implemented incremental updates and snapshot tables with Slowly Changing Dimensions (SCD) to ensure efficient data versioning and recovery.
-
-- Configured Dagster Cloud to manage schedules for over 20 interdependent jobs across various platforms, ensuring robust daily data partitioning. This setup guarantees comprehensive data availability and integrity from raw ingestion sources to final analytics readiness.
-
-**LLM Application for Financial Analysis**
-
-- Engineered  utilizing NLP to meticulously analyze and interpret news feeds, targeting specific stocks and companies for strategic insights.
-- Applied sophisticated embedding methods to generate actionable investment recommendations by quantifying semantic similarities among stocks and companies, thereby enabling data-driven decision-making.
+- Reduced original schema size by over 50% by designing and simplifying data models involving 30+ tables using the DBT framework, enhancing maintainability and system performance.
+- Aligned date ranges across various data models to minimize batch data volumes, transforming disorganized schemas into deduplicated, well-documented models. Achieved a 15% reduction in redundant data storage, enhancing data retrieval efficiency.
+- Conducted thorough analysis to identify and resolve bottlenecks in data flow. Improved system efficiency by re-indexing and aligning data types of join keys, and refining join conditions, resulting in a 50% reduction in query runtime.
+- Implemented Slowly Changing Dimensions (SCD) principles to create reliable backup checkpoints, ensuring data integrity in catastrophic scenarios. Introduced an incremental update strategy for table ingestion, saving 10% in data ingestion time.
+- Integrated DBT with Dagster Cloud to develop a mixed orchestration framework combining notebook and DBT jobs. This approach unified heterogeneous data streams, enhancing the user interface and overall data presentation within the DBT framework.
 
 
 ---
@@ -54,9 +46,12 @@ May 2023 – Now
 </p>
 
 **ETL**
--  Developed and deployed robust data pipelines utilizing Spark/Databricks, enhanced with AWS Lambda for dynamic feature generation and efficient data processing.
-- Crafted and implemented automated ETL workflows that support real-time analytics, significantly enhancing decision-making processes.
-- Created a suite of critical metrics and features for model training and A/B testing, which markedly improved model accuracy and overall analytical performance.
+
+Developing and maintaining data flows supplementing the recommendation system
+
+- Developed and maintained T+1 batch data processes, capturing long-term patterns in user behaviors. Utilized AWS Lambda to trigger Python scripts written in PySpark, storing data in Parquet format within a Databricks environment. This setup supports both model training and real-time inference needs.
+- Engineered a real-time data streaming solution capturing user log data from Elasticsearch, facilitating the immediate tracking of user click behaviors. Implemented a Redis key-value store for rapid data access, integrating this stream with batch data to enhance the real-time data feed for inference. This integration improved the Click-Through Rate (CTR) by 2%, significantly impacting core profitability metrics.
+
 
 **Recommendation Systems**
 - Developed and improved recommendation systems using iterative ML models (Logistic Regression / LightGBM / Deep learning).
@@ -66,31 +61,6 @@ May 2023 – Now
 - Applied Deep learning models to hotel images to enhance user experience.
 - Employed ResNet for categorizing hotel images into 20 landscape/interior labels, achieving **99% accuracy** in Top-5 predictions.
 - Utilized MobileNet to select thumbnails for hotels, resulting in a **+3% increase in CTR**.
-
----
-
-### Data Scientist - DJI
-
-<p style="text-align:left;font-style: italic">
-Shenzhen, China
-    <span style="float:right;font-style: italic">
-April 2018 - Aug 2018
-    </span>
-</p>
-
-**Competitive Analysis** 
-- Provided support for a comprehensive campaign through competitive analysis.
-- Scraped retail location data from competitors with **Scrapy**.
-
-**Data Reports**
-- Analyzed collected dataset to identify patterns and insights for the campaign team.
-- Translated findings into actionable recommendations.
-- Empowered stakeholders to make informed decisions and optimize the product launch strategy.
-
-**Django** 
-- Developed a Django-based API for Jupyter integration extension, enabling seamless SQL querying and data model management.
-- Designed the API to facilitate Jupyter extension integration for streamlined SQL query execution.
-- Maintained data models using Django and SQLAlchemy, ensuring standardized datasets across the platform.
 
 
 ## Education
