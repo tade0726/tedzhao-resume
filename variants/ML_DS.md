@@ -56,8 +56,8 @@ May 2023 – Now
 
 **LLM Application for Financial Analysis**
 
-- **Semantic Analysis**: Implemented advanced semantic analysis using LLMs for prompt engineering. Developed customized prompts to accurately categorize company descriptions and news feeds, facilitating the extraction of GICS-like themes. This process enhances the understanding of company genres and industries, providing a structured overview of corporate landscapes.
-- **RAG Graph with LLM**: Pioneered the development of a knowledge graph utilizing LLM's robust parsing capabilities. Analyzed and extracted a variety of entities and their relationships from company news and descriptions, including executives, competitors, and product logistics chains. This information was integrated into a graph database, supporting a Retrieval-Augmented Generation (RAG) system for enhanced information retrieval and decision-making accuracy in financial contexts.
+- Leveraged LLMs for advanced semantic analysis in prompt engineering, developing tailored prompts to accurately categorize company descriptions and news feeds. This methodology facilitated the extraction of GICS-like themes, enhancing the understanding of company genres and industries for a structured corporate landscape overview.
+- Innovated in creating a knowledge graph utilizing LLM's robust parsing capabilities to analyze and extract a diverse array of entities and their relationships from company news and descriptions, such as executives, competitors, and product logistics chains. Integrated this data into a graph database to support a Retrieval-Augmented Generation (RAG) system, significantly improving information retrieval and decision-making accuracy in financial contexts.
 
 
 **Developing finaicial strategy with ML algorithem**
