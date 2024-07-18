@@ -39,6 +39,7 @@ Implemented deep learning models on hotel imagery to enhance the user experience
 - Implemented **Docker** for seamless end-to-end model deployment and development within an **AWS Sagemaker** environment, leading to a **5-10% increase in CTR** with each iteration.
   
 **ETL**
+
 Developing and maintaining data flows supplementing the recommendation system
 
 - Developed and maintained T+1 batch data processes, capturing long-term patterns in user behaviors. Utilized AWS Lambda to trigger Python scripts written in PySpark, storing data in Parquet format within a Databricks environment. This setup supports both model training and real-time inference needs.
