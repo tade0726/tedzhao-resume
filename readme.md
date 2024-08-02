@@ -109,7 +109,7 @@ April 2018 - Aug 2018
 <p style="text-align:left;font-style: italic">
 Shenzhen, China
     <span style="float:right;font-style: italic">
-[Aug 2015 - Mar 2018]
+Aug 2015 - Mar 2018
     </span>
 </p>
 
