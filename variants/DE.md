@@ -61,9 +61,78 @@ Developing and maintaining data flows supplementing the recommendation system
 - Employed ResNet for categorizing hotel images into 20 landscape/interior labels, achieving **99% accuracy** in Top-5 predictions.
 - Utilized MobileNet to select thumbnails for hotels, resulting in a **+3% increase in CTR**.
 
+---
 
-<br/><br/>
-<br/><br/>
+### Data Scientist - DJI
+
+<p style="text-align:left;font-style: italic">
+Shenzhen, China
+    <span style="float:right;font-style: italic">
+April 2018 - Aug 2018
+    </span>
+</p>
+
+**Pre-sale Competitive Analysis for an Educational Product**
+- Supported a comprehensive marketing campaign by conducting an in-depth competitive analysis.
+	- Analyzed the demographics of dozens of potential cities in China, assessing factors such as economic conditions and demographic data, supplemented with competitor information regarding the location and distribution of their stores.
+    - Developed a customized ranking strategy/algorithm to prioritize our distribution across target cities, incorporating both quantitative data and intuitive business factors.
+- Collected all relevant data independently using a custom web crawler built with **Scrapy** in Python.
+
+**Data Reports for Sales Monitoring**
+- Continuously monitored sales post-product launch, analyzing internal data on user demographics, including location, income, and age, to create detailed customer segment analyses.
+- Analyzed datasets to identify patterns and insights, supporting the campaign team in strategic planning.
+- Provided stakeholders with critical data and analysis, empowering informed decision-making and optimizing the product launch strategy.
+
+**Django Development**
+- Developed a Django-based API for a Jupyter integration extension, enabling seamless SQL querying and data model management.
+- Designed the API to enhance Jupyter extension capabilities for efficient SQL query execution.
+- Managed and standardized data models using Django and SQLAlchemy, ensuring data consistency across the platform.
+
+---
+
+### Data Scientist - Smart Decision Technology Ltd
+
+<p style="text-align:left;font-style: italic">
+Shenzhen, China
+    <span style="float:right;font-style: italic">
+Aug 2015 - Mar 2018
+    </span>
+</p>
+
+**Credit Risk Modeling**
+- Designed credit scorecard workflows using Python to replace SAS.
+- Created **feature selection, binning, and WOE calculation** in Python.
+- Converted the logistics model into scorecards in Python.
+
+**Simulation**
+- Designed and implemented a Python-based simulation system for S.F. Express.
+- Leveraged **SimPy** to accurately model the conveyor system within the Distribution Centre.
+- Created an intuitive front-end interface, enabling business users to input site designs and parameters with ease.
+- Developed a robust back-end service using **Flask**, which stored simulation parameters and results for each iteration, utilizing **SQLAlchemy** for efficient model management.
+- The solution surpassed three competitors in terms of speed and adaptability, securing a **2-year contract** with S.F. Express.
+
+
+## RESEARCH PROJECT
+
+### Quantitative Trading with Reinforcement Learning - The University of Adelaide
+
+<p style="text-align:left;font-style: italic">
+Adelaide, SA, Australia
+    <span style="float:right;font-style: italic">
+Sep 2022 - Feb 2023
+    </span>
+</p>
+
+**Reinforcement Learning** 
+- Conducting a research project while pursuing a master's degree in Machine Learning at The University of Adelaide.
+- Developed a trading strategy for the Crypto market using **Reinforcement Learning**.
+- Designed a reward system with Sharp Ratio, where actions were the next sell/buy quantity of all assets.
+- Created **two Deep Learning modules** to capture price signals and market sentiment.
+
+**Back Testing** 
+- Developed a back-test with metrics **Sharp Ratio, Maximum Drawdown(MDD)** and presented profit curves with plots, considering fees and compound returns.
+
+
 
 
 ## Education
