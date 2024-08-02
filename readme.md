@@ -18,6 +18,36 @@
 
 ## WORK EXPERIENCE
 
+
+### ML/DATA Engineer - RAINMAKR.AI
+
+<p style="text-align:left;font-style: italic">
+    Sydney, NSW(remote)
+    <span style="float:right;font-style: italic">
+May 2023 – July 2024
+    </span>
+</p>
+
+**LLM Application for Financial Analysis**
+
+- Leveraged LLMs for advanced semantic analysis in prompt engineering, developing tailored prompts to accurately categorize company descriptions and news feeds. This methodology facilitated the extraction of GICS-like themes, enhancing the understanding of company genres and industries for a structured corporate landscape overview.
+- Innovated in creating a knowledge graph utilizing LLM's robust parsing capabilities to analyze and extract a diverse array of entities and their relationships from company news and descriptions, such as executives, competitors, and product logistics chains. Integrated this data into a graph database to support a Retrieval-Augmented Generation (RAG) system, significantly improving information retrieval and decision-making accuracy in financial contexts.
+
+
+**Developing finaicial strategy with ML algorithem**
+
+- Explored the integration of alpha factors derived from robust financial domains with machine learning algorithms. This approach involved iterating from decision tree models to reinforcement learning, creating a comprehensive ML lifecycle encompassing data ingestion, feature engineering, model training, and prediction. The key innovation was the use of reinforcement learning to develop a unified framework that simultaneously directs both bidding strategies and investment amounts, optimizing portfolio management for enhanced yield.
+
+**ETL**
+
+- Reduced original schema size by over 50% by designing and simplifying data models involving 30+ tables using the DBT framework, enhancing maintainability and system performance.
+- Aligned date ranges across various data models to minimize batch data volumes, transforming disorganized schemas into deduplicated, well-documented models. Achieved a 15% reduction in redundant data storage, enhancing data retrieval efficiency.
+- Conducted thorough analysis to identify and resolve bottlenecks in data flow. Improved system efficiency by re-indexing and aligning data types of join keys, and refining join conditions, resulting in a 50% reduction in query runtime.
+- Implemented Slowly Changing Dimensions (SCD) principles to create reliable backup checkpoints, ensuring data integrity in catastrophic scenarios. Introduced an incremental update strategy for table ingestion, saving 10% in data ingestion time.
+- Integrated DBT with Dagster Cloud to develop a mixed orchestration framework combining notebook and DBT jobs. This approach unified heterogeneous data streams, enhancing the user interface and overall data presentation within the DBT framework.
+
+---
+
 ### ML Engineer/Data Scientist - Skyscanner
 
 <p style="text-align:left;font-style: italic">
@@ -44,35 +74,6 @@ Developing and maintaining data flows supplementing the recommendation system
 
 - Developed and maintained T+1 batch data processes, capturing long-term patterns in user behaviors. Utilized AWS Lambda to trigger Python scripts written in PySpark, storing data in Parquet format within a Databricks environment. This setup supports both model training and real-time inference needs.
 - Engineered a real-time data streaming solution capturing user log data from Elasticsearch, facilitating the immediate tracking of user click behaviors. Implemented a Redis key-value store for rapid data access, integrating this stream with batch data to enhance the real-time data feed for inference. This integration improved the Click-Through Rate (CTR) by 2%, significantly impacting core profitability metrics.
-
----
-### ML/DATA Engineer - RAINMAKR.AI
-
-<p style="text-align:left;font-style: italic">
-    Sydney, NSW(remote)
-    <span style="float:right;font-style: italic">
-May 2023 – Now
-    </span>
-</p>
-
-**LLM Application for Financial Analysis**
-
-- Leveraged LLMs for advanced semantic analysis in prompt engineering, developing tailored prompts to accurately categorize company descriptions and news feeds. This methodology facilitated the extraction of GICS-like themes, enhancing the understanding of company genres and industries for a structured corporate landscape overview.
-- Innovated in creating a knowledge graph utilizing LLM's robust parsing capabilities to analyze and extract a diverse array of entities and their relationships from company news and descriptions, such as executives, competitors, and product logistics chains. Integrated this data into a graph database to support a Retrieval-Augmented Generation (RAG) system, significantly improving information retrieval and decision-making accuracy in financial contexts.
-
-
-**Developing finaicial strategy with ML algorithem**
-
-- Explored the integration of alpha factors derived from robust financial domains with machine learning algorithms. This approach involved iterating from decision tree models to reinforcement learning, creating a comprehensive ML lifecycle encompassing data ingestion, feature engineering, model training, and prediction. The key innovation was the use of reinforcement learning to develop a unified framework that simultaneously directs both bidding strategies and investment amounts, optimizing portfolio management for enhanced yield.
-
-**ETL**
-
-- Reduced original schema size by over 50% by designing and simplifying data models involving 30+ tables using the DBT framework, enhancing maintainability and system performance.
-- Aligned date ranges across various data models to minimize batch data volumes, transforming disorganized schemas into deduplicated, well-documented models. Achieved a 15% reduction in redundant data storage, enhancing data retrieval efficiency.
-- Conducted thorough analysis to identify and resolve bottlenecks in data flow. Improved system efficiency by re-indexing and aligning data types of join keys, and refining join conditions, resulting in a 50% reduction in query runtime.
-- Implemented Slowly Changing Dimensions (SCD) principles to create reliable backup checkpoints, ensuring data integrity in catastrophic scenarios. Introduced an incremental update strategy for table ingestion, saving 10% in data ingestion time.
-- Integrated DBT with Dagster Cloud to develop a mixed orchestration framework combining notebook and DBT jobs. This approach unified heterogeneous data streams, enhancing the user interface and overall data presentation within the DBT framework.
-
 
 ---
 
