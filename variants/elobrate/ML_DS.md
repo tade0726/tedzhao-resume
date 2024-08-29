@@ -15,9 +15,18 @@
 - Extensive experience in developing computer vision solutions and building high-performance recommendation systems, notably for click-through rate models at Skyscanner.
 - Proven track record in customer segmentation analysis and demographic profiling, adept in conducting A/B testing. Capable of flexibly integrating various statistical and machine learning methods to derive user insights and support routine business monitoring.
 
+## Skills
+- **AI/Machine Learning**: Reinforcement Learning, Deep Learning, Clustering, Lightgbm, XGBoost, SVM, Word2Vec, AB-Test
+- **MLOPS/Cloud**: Azure ML, AWS, Sagemaker, MLflows
+- **Data Engineering**: DBT, Databricks, Snowflakes, Dagster
+- **Data Science**: Tableau, A/B Testing, Statistics, Data Analysis
+- **Programming Languages**: Python, VBA, Scala, Julia
+- **Web Development/Web Scraping**: Django, Flask, asyncio, Scrapy
+- **ETL**: SQL, SQLAlchemy, Spark, Pandas
+- **Version Control**: Git
+- **Containerization**: Docker
 
 ## WORK EXPERIENCE
-
 
 ### ML/DATA Engineer - RAINMAKR.AI
 
@@ -147,40 +156,17 @@ Sep 2022 - Feb 2023
 **Back Testing** 
 - Developed a back-test with metrics **Sharp Ratio, Maximum Drawdown(MDD)** and presented profit curves with plots, considering fees and compound returns.
 
-
 ## Education
-
-|  | Institution | Duration |
-| --- | --- | --- |
-| Master of Machine Learning | The University of Adelaide | June 2021 - May 2023 |
-| Bachelor's Degree in Mathematical Sciences | Shenzhen University | September 2010 - July 2014 |
-
+- **Master of Machine Learning**, The University of Adelaide (June 2021 - May 2023)
+- **Bachelor's Degree in Mathematical Sciences**, Shenzhen University (September 2010 - July 2014)
 
 ## Certifications
-
-|  | Date | Verification |
-| --- | --- | --- |
-| Machine Learning - Coursera | October 2016 | [Verify](https://www.coursera.org/account/accomplishments/verify/Q89DMB9RYYTB) |
-| Machine Learning Nanodegree Program - Udacity | December 2018 | [Verify](https://graduation.udacity.com/confirm/PKAQPLU2) |
+- Machine Learning - Coursera (October 2016)
+  [Verify](https://www.coursera.org/account/accomplishments/verify/Q89DMB9RYYTB)
+- Machine Learning Nanodegree Program - Udacity (December 2018)
+  [Verify](https://graduation.udacity.com/confirm/PKAQPLU2)
 
 ## Language Proficiency
-
-|  | Proficiency |
-| --- | ---: |
-| English | IELTS 7.0 |
-| Mandarin | Native |
-| Cantonese | Native |
-
-
-## SKILLS
-|  | |
-| --- |:---|
-| **AI/Machine Learning** | Reinforcement Learning, Deep Learning, Clustering, Lightgbm, XGBoost, SVM, Word2Vec|
-| **MLOPS/Cloud** | Azure ML, AWS, Sagemaker, MLflows|
-| **Data Engineer** | DBT, Databricks, Snowflakes, Dagster|
-| **Data Science** | Tableau, A/B Testing, Statistics, Data Analysis |
-| **Programming Languages** | Python, VBA, Scala, Julia |
-| **Web/Web Scraping** | Django, Flask, asyncio, Scrapy|
-| **ETL** | SQL, SQLAlchemy, Spark, Pandas |
-| **Version Control** | Git |
-| **Containerization** | Docker|
+- English: IELTS 7.0
+- Mandarin: Native
+- Cantonese: Native

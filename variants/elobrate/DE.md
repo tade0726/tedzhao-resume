@@ -15,6 +15,17 @@
 - Skilled in transitioning data operations to modern platforms like Dagster and DBT, establishing scalable CI/CD pipelines that support extensive data handling and performance needs.
 - Led significant projects at RAINMAKR.AI and Skyscanner, focusing on advanced SQL optimizations and dynamic data pipeline development, which substantially reduced processing times and enhanced real-time analytics.
 
+## Skills
+- **Data Engineering**: DBT, Databricks, Snowflakes, Dagster
+- **ETL**: SQL, SQLAlchemy, Spark, Pandas
+- **AI/Machine Learning**: Reinforcement Learning, Deep Learning, Clustering, Lightgbm, XGBoost, SVM, Word2Vec, AB-Test
+- **MLOPS/Cloud**: Azure ML, AWS, Sagemaker, MLflows
+- **Data Science**: Tableau, A/B Testing, Statistics, Data Analysis
+- **Programming Languages**: Python, VBA, Scala, Julia
+- **Web Development/Web Scraping**: Django, Flask, asyncio, Scrapy
+- **Version Control**: Git
+- **Containerization**: Docker
+
 
 ## WORK EXPERIENCE
 
@@ -27,12 +38,18 @@ May 2023 – Now
     </span>
 </p>
 
+**ETL**
+
 - Reduced original schema size by over 50% by designing and simplifying data models involving 30+ tables using the DBT framework, enhancing maintainability and system performance.
 - Aligned date ranges across various data models to minimize batch data volumes, transforming disorganized schemas into deduplicated, well-documented models. Achieved a 15% reduction in redundant data storage, enhancing data retrieval efficiency.
 - Conducted thorough analysis to identify and resolve bottlenecks in data flow. Improved system efficiency by re-indexing and aligning data types of join keys, and refining join conditions, resulting in a 50% reduction in query runtime.
 - Implemented Slowly Changing Dimensions (SCD) principles to create reliable backup checkpoints, ensuring data integrity in catastrophic scenarios. Introduced an incremental update strategy for table ingestion, saving 10% in data ingestion time.
 - Integrated DBT with Dagster Cloud to develop a mixed orchestration framework combining notebook and DBT jobs. This approach unified heterogeneous data streams, enhancing the user interface and overall data presentation within the DBT framework.
 
+**LLM Application for Financial Analysis**
+
+- Leveraged LLMs for advanced semantic analysis in prompt engineering, developing tailored prompts to accurately categorize company descriptions and news feeds. This methodology facilitated the extraction of GICS-like themes, enhancing the understanding of company genres and industries for a structured corporate landscape overview.
+- Innovated in creating a knowledge graph utilizing LLM's robust parsing capabilities to analyze and extract a diverse array of entities and their relationships from company news and descriptions, such as executives, competitors, and product logistics chains. Integrated this data into a graph database to support a Retrieval-Augmented Generation (RAG) system, significantly improving information retrieval and decision-making accuracy in financial contexts.
 
 ---
 
@@ -46,8 +63,6 @@ May 2023 – Now
 </p>
 
 **ETL**
-
-Developing and maintaining data flows supplementing the recommendation system
 
 - Developed and maintained T+1 batch data processes, capturing long-term patterns in user behaviors. Utilized AWS Lambda to trigger Python scripts written in PySpark, storing data in Parquet format within a Databricks environment. This setup supports both model training and real-time inference needs.
 - Engineered a real-time data streaming solution capturing user log data from Elasticsearch, facilitating the immediate tracking of user click behaviors. Implemented a Redis key-value store for rapid data access, integrating this stream with batch data to enhance the real-time data feed for inference. This integration improved the Click-Through Rate (CTR) by 2%, significantly impacting core profitability metrics.
@@ -142,40 +157,17 @@ Sep 2022 - Feb 2023
 - Developed a back-test with metrics **Sharp Ratio, Maximum Drawdown(MDD)** and presented profit curves with plots, considering fees and compound returns.
 
 
-
-
 ## Education
-
-|  | Institution | Duration |
-| --- | --- | --- |
-| Master of Machine Learning | The University of Adelaide | June 2021 - May 2023 |
-| Bachelor's Degree in Mathematical Sciences | Shenzhen University | September 2010 - July 2014 |
-
+- **Master of Machine Learning**, The University of Adelaide (June 2021 - May 2023)
+- **Bachelor's Degree in Mathematical Sciences**, Shenzhen University (September 2010 - July 2014)
 
 ## Certifications
-
-|  | Date | Verification |
-| --- | --- | --- |
-| Machine Learning - Coursera | October 2016 | [Verify](https://www.coursera.org/account/accomplishments/verify/Q89DMB9RYYTB) |
-| Machine Learning Nanodegree Program - Udacity | December 2018 | [Verify](https://graduation.udacity.com/confirm/PKAQPLU2) |
+- Machine Learning - Coursera (October 2016)
+  [Verify](https://www.coursera.org/account/accomplishments/verify/Q89DMB9RYYTB)
+- Machine Learning Nanodegree Program - Udacity (December 2018)
+  [Verify](https://graduation.udacity.com/confirm/PKAQPLU2)
 
 ## Language Proficiency
-
-|  | Proficiency |
-| --- | ---: |
-| English | IELTS 7.0 |
-| Mandarin | Native |
-| Cantonese | Native |
-
-## SKILLS
-|  | |
-| --- |:---|
-| **AI/Machine Learning** | Reinforcement Learning, Deep Learning, Clustering, Lightgbm, XGBoost, SVM, Word2Vec|
-| **Data Engineer** | DBT, Databricks, Snowflakes, Dagster|
-| **Data Science** | Tableau, A/B Testing, Statistics, Data Analysis |
-| **Programming Languages** | Python, VBA, Scala, Julia |
-| **MLOPS/Cloud** | AWS Sagemaker, Azure ML, AWS|
-| **Web/Web Scraping** | Django, Flask, asyncio, Scrapy|
-| **ETL** | SQL, SQLAlchemy, Spark, Pandas |
-| **Version Control** | Git |
-| **Containerization** | Docker|
+- English: IELTS 7.0
+- Mandarin: Native
+- Cantonese: Native
