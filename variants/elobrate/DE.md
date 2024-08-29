@@ -100,17 +100,26 @@ Aug 2015 - Mar 2018
 </p>
 
 **Credit Risk Modeling**
-- Designed credit scorecard workflows using Python to replace SAS.
-- Created **feature selection, binning, and WOE calculation** in Python.
-- Converted the logistics model into scorecards in Python.
+- Designed credit scorecard workflows in Python, replacing SAS
+- Implemented **feature selection, binning, and WOE calculation**
+- Converted logistic models into scorecards using Python
 
-**Simulation**
-- Designed and implemented a Python-based simulation system for S.F. Express.
-- Leveraged **SimPy** to accurately model the conveyor system within the Distribution Centre.
-- Created an intuitive front-end interface, enabling business users to input site designs and parameters with ease.
-- Developed a robust back-end service using **Flask**, which stored simulation parameters and results for each iteration, utilizing **SQLAlchemy** for efficient model management.
-- The solution surpassed three competitors in terms of speed and adaptability, securing a **2-year contract** with S.F. Express.
+**Simulation System Development**
+- Built Python-based simulation for S.F. Express using **SimPy**
+- Created user-friendly frontend for business users
+- Developed **Flask** backend with **SQLAlchemy** for data management
+- Outperformed competitors, securing 2-year contract
 
+**HKJC Member Segmentation Analysis**
+- Applied **K-Means clustering** for member segmentation
+- Developed targeted strategies based on lifecycle analysis
+- Presented actionable insights through data visualisation
+
+**NLP-Based Sentiment Analysis**
+- Developed sentiment analysis for Chinese app reviews
+- Implemented custom tokenization for Chinese text
+- Used **Word2Vec** and **K-means clustering** for thematic analysis
+- Built supervised learning model for sentiment classification
 
 ## RESEARCH PROJECT
 
