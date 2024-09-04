@@ -29,10 +29,10 @@
 
 ## WORK EXPERIENCE
 
-### Data/AI Engineer - Rainmakr.ai
+### Data/AI Engineer - Rainmakr.ai (A finance startup based in Sydney)
 
 <p style="text-align:left;font-style: italic">
-    Sydney, NSW(remote)
+    Adelaide, SA(remote)
     <span style="float:right;font-style: italic">
 May 2023 – Now
     </span>
@@ -53,7 +53,7 @@ May 2023 – Now
 
 ---
 
-### Machine Learning Engineer - Skyscanner
+### Machine Learning Engineer - Skyscanner (one of the largest flight ticket search engines in Europe)
 
 <p style="text-align:left;font-style: italic">
     Shenzhen, China (Collaborated with EU teams)
@@ -78,7 +78,7 @@ May 2023 – Now
 
 ---
 
-### Data Scientist - DJI
+### Data Scientist - DJI (the world's largest drone manufacturer)
 
 <p style="text-align:left;font-style: italic">
 Shenzhen, China
