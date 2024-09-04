@@ -13,7 +13,7 @@
 
 - 3+ year of experiences in ETL workflows and data orchestration, familiar with Azure, AWS and Databricks to create full data circle, data ingesting, data transformation, data enrichment and refined for advanced analysis.
 - Skilled in transitioning data operations to modern platforms like Dagster and DBT, establishing scalable CI/CD pipelines that support extensive data handling and performance needs.
-- Led significant projects at RAINMAKR.AI and Skyscanner, focusing on advanced SQL optimizations and dynamic data pipeline development, which substantially reduced processing times and enhanced real-time analytics.
+- Led significant projects at Rainmakr.ai and Skyscanner, focusing on advanced SQL optimizations and dynamic data pipeline development, which substantially reduced processing times and enhanced real-time analytics.
 
 ## Skills
 - **Data Engineering**: DBT, Databricks, Snowflakes, Dagster
