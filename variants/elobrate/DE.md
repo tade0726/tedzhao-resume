@@ -34,7 +34,7 @@
 <p style="text-align:left;font-style: italic">
     Adelaide, SA(remote)
     <span style="float:right;font-style: italic">
-May 2023 – Now
+May 2023 – July 2024
     </span>
 </p>
 
