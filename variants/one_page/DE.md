@@ -45,21 +45,21 @@ ul {
 <div class="row">
   <div class="column">
 
-## **Machine Learning Engineer / Data Scientist**
+## **Data Engineer**
 
-- **5+ years** in Machine Learning and Data Science across finance, travel, and retail sectors.
-- Delivered end-to-end ML solutions with deep business insights.
-- Improved CTR by up to **10%** at Skyscanner through advanced recommendation systems.
-- Expert in customer segmentation, demographic profiling, and A/B testing.
+- **3+ years** of experience in ETL workflows and data orchestration.
+- Proficient with Azure, AWS, and Databricks for end-to-end data solutions.
+- Transitioned data operations to modern platforms like Dagster and DBT.
+- Led projects at Rainmakr.ai and Skyscanner, enhancing processing times and analytics.
 
 ## **Skills**
 
+- **Data Engineering**: DBT, Databricks, Snowflake, Dagster
+- **ETL**: SQL, SQLAlchemy, Spark, Pandas
 - **AI/Machine Learning**: Reinforcement Learning, Deep Learning, Clustering, LightGBM, XGBoost, SVM, Word2Vec, A/B Testing
 - **MLOps/Cloud**: Azure ML, AWS, SageMaker, MLflow
-- **Data Engineering**: DBT, Databricks, Snowflake, Dagster
-- **Programming**: Python, VBA, Scala, Julia
+- **Programming Languages**: Python, VBA, Scala, Julia
 - **Web Development**: Django, Flask, Asyncio, Scrapy
-- **ETL/Data Tools**: SQL, SQLAlchemy, Spark, Pandas, Tableau
 - **Version Control & Containers**: Git, Docker
 
 ## **Education**
@@ -90,26 +90,26 @@ Shenzhen, China  <span class="date">**Sept 2010 - July 2014**</span>
 
 Adelaide, SA (Remote) <span class="date">**May 2023 – July 2024**</span>
 
-- Developed LLM prompts to categorize company data, enhancing industry insights.
-- Created knowledge graphs with LLMs, improving financial decision-making accuracy.
-- Simplified data models with DBT, reducing schema size by **50%** and redundant data by **15%**.
-- Optimized queries, cutting runtime by **50%** through data flow enhancements.
+- Simplified data models with DBT, reducing schema size by **50%**.
+- Reduced redundant data storage by **15%** through deduplication.
+- Optimized queries, cutting runtime by **50%** via re-indexing and join refinements.
+- Implemented SCD principles and incremental updates, saving **10%** in ingestion time.
 - Integrated DBT with Dagster Cloud, unifying data streams and improving presentation.
 
-*Skills: LLMs, Data Modeling, ETL, DBT, Dagster, Performance Optimization.*
+*Skills: ETL, DBT, Dagster, Performance Optimization, Data Modeling.*
 
 ---
 
-### **ML Engineer/Data Scientist** - Skyscanner
+### **Machine Learning Engineer** - Skyscanner
 
-Shenzhen, China (Collaborated with European Team) <span class="date">**Nov 2019 - July 2021**</span>
+Shenzhen, China (Collaborated with EU Teams) <span class="date">**Nov 2019 - July 2021**</span>
 
-- Increased CTR by **5-10%** using Logistic Regression, LightGBM, and Deep Learning models.
-- Achieved **99% Top-5 accuracy** in image categorization with ResNet, enhancing user engagement.
-- Improved CTR by **3%** by refining thumbnail selection using MobileNet.
-- Boosted CTR by **2%** through real-time data streaming and batch processing optimization.
+- Developed T+1 batch data processes using AWS Lambda and PySpark.
+- Engineered real-time data streaming from Elasticsearch, improving CTR by **2%**.
+- Stored data in Parquet format within Databricks for model training and inference.
+- Integrated Redis for rapid data access, enhancing real-time data feeds.
 
-*Skills: Machine Learning, Computer Vision, Deep Learning, ETL, AWS, Databricks, MLOps, MLflow.*
+*Skills: ETL, AWS, Databricks, PySpark, Real-time Streaming.*
 
 ---
 
@@ -117,9 +117,9 @@ Shenzhen, China (Collaborated with European Team) <span class="date">**Nov 201
 
 Shenzhen, China <span class="date">**April 2018 - Aug 2018**</span>
 
-- Conducted competitive analysis using a custom Python web crawler for product launch.
-- Developed ranking algorithms to prioritize city distribution, aiding marketing strategy.
-- Performed customer segmentation analysis to support strategic planning.
+- Conducted competitive analysis using custom Python web crawlers.
+- Developed ranking algorithms for city distribution in marketing strategy.
+- Performed customer segmentation analysis for strategic planning.
 - Built Django APIs for SQL querying and data model management.
 
 *Skills: Data Analysis, Web Scraping, Python, Django, Customer Segmentation.*
@@ -130,7 +130,7 @@ Shenzhen, China <span class="date">**April 2018 - Aug 2018**</span>
 
 Shenzhen, China <span class="date">**Aug 2015 - Mar 2018**</span>
 
-- Designed Python-based credit scorecard workflows, replacing SAS solutions.
+- Designed Python-based credit scorecard workflows, replacing SAS.
 - Built a simulation system for S.F. Express, securing a **2-year contract**.
 - Applied K-Means clustering for member segmentation at HKJC.
 - Developed NLP-based sentiment analysis for Chinese app reviews.
