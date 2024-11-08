@@ -81,6 +81,16 @@ Shenzhen, China  <span class="date">**Sept 2010 - July 2014**</span>
 
 - **English**: IELTS 7.0  **Mandarin**: Native  **Cantonese**: Native
 
+## **Side Projects**
+
+### **ATO Chatbot** - [ato-chat.streamlit.app](https://ato-chat.streamlit.app/) ⋄ [GitHub](https://github.com/tade0726/ato_chatbot)
+
+- Engineered an AI-driven chatbot for the Australian Taxation Office (ATO) to facilitate information retrieval, utilizing Retrieval-Augmented Generation (RAG) with LlamaIndex and Qdrant.
+- Deployed the solution via Streamlit, ensuring a seamless and user-friendly interface.
+- Enhanced data ingestion and model fine-tuning processes with ZenML, employing OpenAI's language model for precise, context-aware responses and intelligent query rephrasing.
+
+*Skills: LLMs, RAG Systems, Streamlit, ZenML, OpenAI, Data Ingestion, Model Fine-tuning.*
+
   </div>
   <div class="column">
 
