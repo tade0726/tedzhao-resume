@@ -84,6 +84,15 @@ Shenzhen, China  <span class="date">**Sept 2010 - July 2014**</span>
   </div>
   <div class="column">
 
+## **Side Projects**
+
+### **ATO Chatbot** - https://ato-chat.streamlit.app/ - https://github.com/tade0726/ato_chatbot
+
+- Developed an AI-powered chatbot for ATO information retrieval using Retrieval-Augmented Generation (RAG) with LlamaIndex and Qdrant, and deployed via Streamlit for an intuitive user interface.
+- Streamlined data ingestion and model fine-tuning with ZenML, leveraging OpenAI's language model for accurate, context-based responses and smart query rephrasing.
+
+*Skills: LLMs, RAG Systems, Streamlit, ZenML, OpenAI, Data Ingestion, Model Fine-tuning.*
+
 ## **Work Experience**
 
 ### **Data/AI Engineer** - Rainmakr.ai *(Finance Startup)*
