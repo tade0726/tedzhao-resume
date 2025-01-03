@@ -1,0 +1,15 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.yaml
+!*.yml
+
+# And not these folders...
+!md/
+!md/**
+
+# Ignore build outputs and system files
+.DS_Store
+rendercv_output*/
