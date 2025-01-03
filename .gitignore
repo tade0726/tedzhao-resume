@@ -13,6 +13,9 @@
 # pdf
 !*.pdf
 
+# Readme
+!Readme.md
+
 # Ignore build outputs and system files
 .DS_Store
 rendercv_output_*/
