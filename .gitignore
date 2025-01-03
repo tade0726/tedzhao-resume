@@ -10,6 +10,9 @@
 !md/
 !md/**
 
+# pdf
+!*.pdf
+
 # Ignore build outputs and system files
 .DS_Store
-rendercv_output*/
+rendercv_output_*/

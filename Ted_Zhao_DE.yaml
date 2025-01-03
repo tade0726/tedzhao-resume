@@ -43,7 +43,7 @@ cv:
           - Integrated DBT with Dagster Cloud, unifying data streams and improving presentation.
       - company: Skyscanner
         position: Machine Learning Engineer
-        location: Shenzhen, China (Collaborated with EU Teams)
+        location: Shenzhen, China
         start_date: 2019-11
         end_date: 2021-07
         highlights:
@@ -185,6 +185,7 @@ locale_catalog:
 rendercv_settings:
   render_command:
     output_folder_name: rendercv_output_de
+    pdf_path: ted_zhao_de_cv.pdf
     dont_generate_html: false 
     dont_generate_markdown: false 
     dont_generate_png: false

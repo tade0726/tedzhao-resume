@@ -185,6 +185,7 @@ locale_catalog:
 rendercv_settings:
   render_command:
     output_folder_name: rendercv_output_ml
+    pdf_path: ted_zhao_ml_cv.pdf
     dont_generate_html: false 
     dont_generate_markdown: false 
     dont_generate_png: false
