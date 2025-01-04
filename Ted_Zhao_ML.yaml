@@ -10,10 +10,76 @@ cv:
       username: tade0726
   sections:
     summary:
-      - bullet: 5+ years in Machine Learning and Data Science across finance, travel, and retail sectors.
-      - bullet: Delivered end-to-end ML solutions with deep business insights.
-      - bullet: Improved CTR by up to 10% at Skyscanner through advanced recommendation systems.
-      - bullet: Expert in customer segmentation, demographic profiling, and A/B testing.
+      - bullet: Machine Learning Engineer with 5+ years of experience delivering end-to-end AI solutions across fintech, travel, and retail sectors.
+      - bullet: Expertise in RAG systems, computer vision, and reinforcement learning, improving business metrics by 2-10% across projects.
+      - bullet: Strong MLOps background with Databricks, MLflow, and ZenML, focusing on production-grade model deployment and monitoring.
+      - bullet: Track record of innovative solutions from credit scoring to LLM-powered chatbots, consistently driving business value through AI.
+    experience:
+      - company: Rainmakr.ai
+        position: Data/AI Engineer
+        location: Adelaide, SA (Remote)
+        start_date: 2023-05
+        end_date: 2024-07
+        highlights:
+          - Developed LLM prompts with RAG to categorise company data into GICS-like themes, enhancing industry analysis.
+          - Built knowledge graphs from LLMs to extract entity relationships (executives, competitors, supply chains) for financial insights.
+          - Simplified 30+ table data models with DBT, reducing schema size by 50% and redundant data by 15%.
+          - Optimised queries through join refinement and re-indexing, cutting runtime by 50%.
+          - Integrated DBT with Dagster Cloud for mixed orchestration of notebook and DBT jobs.
+      - company: Skyscanner
+        position: ML Engineer/Data Scientist
+        location: Shenzhen, China
+        start_date: 2019-11
+        end_date: 2021-07
+        highlights:
+          - Led end-to-end ML pipeline in Databricks/MLflow, engineering user behaviour features and iteratively improving CTR by 5-10%.
+          - Deployed ensemble of LightGBM and Deep Learning models with A/B testing framework for continuous model refinement.
+          - Developed ResNet-based classifier for 20 hotel categories with hierarchical labelling system, achieving 99% Top-5 accuracy.
+          - Enhanced image selection using MobileNet with multi-dimensional aesthetic scoring (composition, lighting, detail), lifting CTR by 3%.
+          - Built T+1 batch processing pipeline using AWS Lambda/PySpark for feature extraction, storing in Parquet format.
+          - Engineered real-time feature streaming from Elasticsearch with Redis caching, improving inference CTR by 2%.
+      - company: DJI
+        position: Data Scientist
+        location: Shenzhen, China
+        start_date: 2018-04
+        end_date: 2018-08
+        highlights:
+          - Built Scrapy-based web crawler to gather city demographics and competitor store distribution data for market analysis.
+          - Developed quantitative ranking algorithm incorporating economic indicators and business factors for city prioritisation.
+          - Analysed post-launch user demographics (location, income, age) to create detailed customer segments.
+          - Monitored sales patterns and provided data-driven insights for campaign strategy optimisation.
+          - Developed Django/SQLAlchemy-based API for Jupyter extension, enabling efficient SQL querying and data model management.
+      - company: Smart Decision Technology Ltd
+        position: Data Scientist
+        location: Shenzhen, China
+        start_date: 2015-08
+        end_date: 2018-03
+        highlights:
+          - Implemented credit scorecard system with feature selection, WOE calculation, and logistic model conversion in Python.
+          - Built SimPy-based logistics simulation with Flask/SQLAlchemy backend, securing 2-year contract with S.F. Express.
+          - Applied K-Means clustering for HKJC member segmentation, delivering lifecycle-based targeting strategies.
+          - Developed Chinese text sentiment analysis using Word2Vec and K-means for thematic clustering.
+          - Built supervised learning model with custom Chinese tokenization for app review classification.
+
+    projects:
+      - name: ATO Chatbot
+        date: 2023
+        highlights:
+          - "**Live Demo**: [ato-chat.streamlit.app](https://ato-chat.streamlit.app/) | **Source**: [github.com/tade0726/ato_chatbot](https://github.com/tade0726/ato_chatbot)"
+          - Built production-grade RAG system with LlamaIndex and Qdrant vector store, enabling context-aware tax information retrieval.
+          - Implemented MLOps pipeline with ZenML for data ingestion, OpenAI fine-tuning, and automated model evaluation.
+          - Developed Streamlit-based UI with real-time query rephrasing and source citations for enhanced user trust.
+      - name: Quantitative Trading with Reinforcement Learning
+        location: University of Adelaide
+        date: 2022-09
+        end_date: 2023-02
+        highlights:
+          - Researched and developed crypto trading strategy using Reinforcement Learning at University of Adelaide.
+          - Designed multi-asset portfolio optimisation with Sharpe Ratio reward system for buy/sell quantity decisions.
+          - Built dual Deep Learning modules for price signal prediction and market sentiment analysis.
+          - Implemented comprehensive backtesting framework evaluating Sharpe Ratio and Maximum Drawdown (MDD).
+          - Developed profit analysis system incorporating trading fees and compound returns visualisation.
+    
     skills:
       - label: ML/AI
         details: Reinforcement Learning, Deep Learning, Clustering, LightGBM, XGBoost, SVM, Word2Vec, A/B Testing
@@ -29,65 +95,6 @@ cv:
         details: SQL, SQLAlchemy, Spark, Pandas, Tableau
       - label: Version Control & Containers
         details: Git, Docker
-    experience:
-      - company: Rainmakr.ai
-        position: Data/AI Engineer
-        location: Adelaide, SA (Remote)
-        start_date: 2023-05
-        end_date: 2024-07
-        highlights:
-          - Developed LLM prompts to categorize company data, enhancing industry insights.
-          - Created knowledge graphs with LLMs, improving financial decision-making accuracy.
-          - Simplified data models with DBT, reducing schema size by 50% and redundant data by 15%.
-          - Optimized queries, cutting runtime by 50% through data flow enhancements.
-          - Integrated DBT with Dagster Cloud, unifying data streams and improving presentation.
-      - company: Skyscanner
-        position: ML Engineer/Data Scientist
-        location: Shenzhen, China
-        start_date: 2019-11
-        end_date: 2021-07
-        highlights:
-          - Increased CTR by 5-10% using Logistic Regression, LightGBM, and Deep Learning models.
-          - Achieved 99% Top-5 accuracy in image categorization with ResNet, enhancing user engagement.
-          - Improved CTR by 3% by refining thumbnail selection using MobileNet.
-          - Boosted CTR by 2% through real-time data streaming and batch processing optimization.
-      - company: DJI
-        position: Data Scientist
-        location: Shenzhen, China
-        start_date: 2018-04
-        end_date: 2018-08
-        highlights:
-          - Conducted competitive analysis using a custom Python web crawler for product launch.
-          - Developed ranking algorithms to prioritize city distribution, aiding marketing strategy.
-          - Performed customer segmentation analysis to support strategic planning.
-          - Built Django APIs for SQL querying and data model management.
-      - company: Smart Decision Technology Ltd
-        position: Data Scientist
-        location: Shenzhen, China
-        start_date: 2015-08
-        end_date: 2018-03
-        highlights:
-          - Designed Python-based credit scorecard workflows, replacing SAS solutions.
-          - Built a simulation system for S.F. Express, securing a 2-year contract.
-          - Applied K-Means clustering for member segmentation at HKJC.
-          - Developed NLP-based sentiment analysis for Chinese app reviews.
-    projects:
-      - name: ATO Chatbot
-        date: 2023
-        highlights:
-          - "**Demo**: https://ato-chat.streamlit.app/  **Github**: https://github.com/tade0726/ato_chatbot"
-          - Engineered an AI-driven chatbot for the Australian Taxation Office (ATO) to facilitate information retrieval, utilizing Retrieval-Augmented Generation (RAG) with LlamaIndex and Qdrant.
-          - Deployed the solution via Streamlit, ensuring a seamless and user-friendly interface.
-          - Enhanced data ingestion and model fine-tuning processes with ZenML, employing OpenAI's language model for precise, context-aware responses and intelligent query rephrasing.
-      - name: Quantitative Trading with Reinforcement Learning
-        location: University of Adelaide
-        date: 2022-09
-        end_date: 2023-02
-        highlights:
-          - Developed a crypto trading strategy using Reinforcement Learning.
-          - Designed a Sharpe Ratio-based reward system for asset trading actions.
-          - Created Deep Learning modules to capture price signals and market sentiment.
-          - Conducted back-testing with metrics like Sharpe Ratio and Maximum Drawdown.
     education:
       - institution: University of Adelaide
         area: Machine Learning
@@ -101,6 +108,8 @@ cv:
         location: Shenzhen, China
         start_date: 2010-09
         end_date: 2014-07
+    languages: 
+      - "**English**: IELTS 7.0 **Mandarin**: Native **Cantonese**: Native"
     certifications:
       - area: Machine Learning - https://www.coursera.org/account/accomplishments/verify/Q89DMB9RYYTB
         institution: Coursera
@@ -108,9 +117,6 @@ cv:
       - area: Machine Learning Nanodegree - https://graduation.udacity.com/confirm/PKAQPLU2
         institution: Udacity
         date: 2018-12
-    languages: 
-      - "**English**: IELTS 7.0 **Mandarin**: Native **Cantonese**: Native"
-      
 design:
   theme: engineeringresumes
   font: Charter
