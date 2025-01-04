@@ -11,3 +11,10 @@ https://docs.rendercv.com/
 ```bash
 pipx install rendercv
 ``` 
+
+
+## Makefile
+
+```bash
+make render
+```
