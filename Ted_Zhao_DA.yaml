@@ -1,0 +1,172 @@
+cv:
+  name: Ted Zhao
+  location: 10/4 Sheppards Lane, Norwood SA 5067, Australia
+  email: ted.zhao.au@gmail.com
+  phone: "+61-416-551-622"
+  social_networks:
+    - network: LinkedIn
+      username: ted-zhao
+    - network: GitHub
+      username: tade0726
+  sections:
+    summary:
+      - bullet: Data/AI Engineer with 8+ years of experience in complex data analysis, ETL processes, and business intelligence across fintech, travel, and retail sectors.
+      - bullet: Proven expertise in SQL optimization, data modeling, and visualization tools (Power BI, Tableau), consistently improving query performance by up to 50%.
+      - bullet: Strong stakeholder management skills with track record of delivering actionable insights and automated reporting solutions.
+      - bullet: Extensive experience in data quality assurance and database optimization, focusing on scalable and maintainable solutions.
+    experience:
+      - company: Rainmakr.ai
+        position: Data/AI Engineer
+        location: Adelaide, SA (Remote)
+        start_date: 2023-05
+        end_date: 2024-07
+        highlights:
+          - Simplified complex data models spanning 30+ tables using DBT, reducing schema complexity by 50% and improving data quality.
+          - Optimized critical business queries through advanced SQL techniques, reducing runtime by 50% and improving reporting efficiency.
+          - Developed automated data quality checks and documentation processes, ensuring data accuracy and consistency.
+          - Built scalable ETL pipelines integrating DBT with Dagster Cloud for reliable data processing.
+          - Collaborated with stakeholders to define and track KPIs through automated reporting solutions.
+      - company: Skyscanner
+        position: ML Engineer/Data Scientist
+        location: Shenzhen, China
+        start_date: 2019-11
+        end_date: 2021-07
+        highlights:
+          - Designed and implemented end-to-end data pipelines in Databricks, processing millions of user interactions daily.
+          - Built T+1 batch processing pipeline using AWS Lambda/PySpark for efficient data extraction and transformation.
+          - Created comprehensive dashboards and reports tracking key business metrics, leading to 5% improvement in conversion rates.
+          - Implemented real-time data streaming from Elasticsearch with Redis caching for operational reporting.
+          - Conducted rigorous A/B testing analysis, providing statistical validation for business decisions.
+      - company: DJI
+        position: Data Scientist
+        location: Shenzhen, China
+        start_date: 2018-04
+        end_date: 2018-08
+        highlights:
+          - Developed quantitative analysis framework for market expansion using SQL and Python, incorporating demographic and economic indicators.
+          - Built automated reporting system using Django/SQLAlchemy for efficient data access and visualization.
+          - Analyzed post-launch demographics and sales patterns to provide actionable insights for business strategy.
+          - Created data-driven dashboards for monitoring campaign effectiveness and market performance.
+      - company: Smart Decision Technology Ltd
+        position: Data Scientist
+        location: Shenzhen, China
+        start_date: 2015-08
+        end_date: 2018-03
+        highlights:
+          - Implemented credit scorecard system with comprehensive data analysis pipeline using SQL and Python.
+          - Developed customer segmentation analysis using statistical methods, enabling targeted marketing strategies.
+          - Built automated reporting system for logistics optimization using SimPy and Flask/SQLAlchemy.
+          - Created text analytics pipeline for customer feedback analysis, providing actionable insights to product teams.
+    skills:
+      - label: Data Analysis
+        details: SQL, Statistical Analysis, A/B Testing, Data Quality Assurance
+      - label: Programming
+        details: Python, Pandas, NumPy, SQLAlchemy
+      - label: Databases
+        details: PostgreSQL, Redis, Elasticsearch
+      - label: Data Engineering
+        details: DBT, Databricks, ETL Pipeline Design
+      - label: Visualization
+        details: Tableau, Matplotlib, Seaborn
+      - label: Tools & Platforms
+        details: Git, AWS, Azure, Docker
+    education:
+      - institution: University of Adelaide
+        area: Machine Learning
+        degree: Master
+        location: Adelaide, SA
+        start_date: 2021-06
+        end_date: 2023-05
+      - institution: Shenzhen University
+        area: Mathematical Sciences
+        degree: Bachelor
+        location: Shenzhen, China
+        start_date: 2010-09
+        end_date: 2014-07
+    languages: 
+      - "**English**: IELTS 7.0 **Mandarin**: Native **Cantonese**: Native"
+    certifications:
+      - area: Machine Learning - https://www.coursera.org/account/accomplishments/verify/Q89DMB9RYYTB
+        institution: Coursera
+        date: 2016-10
+      - area: Machine Learning Nanodegree - https://graduation.udacity.com/confirm/PKAQPLU2
+        institution: Udacity
+        date: 2018-12
+design:
+  theme: engineeringresumes
+  font: Charter
+  font_size: 10pt
+  page_size: letterpaper
+  color: black
+  disable_external_link_icons: true
+  disable_page_numbering: true
+  disable_last_updated_date: true
+  header_font_size: 25 pt
+  text_alignment: left-aligned
+  separator_between_connections: $|$
+  use_icons_for_connections: false
+  margins:
+    page:
+      top: 2 cm
+      bottom: 2 cm
+      left: 2 cm
+      right: 2 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.5 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 5 pt
+      bottom: 5 pt
+      horizontal_between_connections: 10 pt
+locale_catalog:
+  phone_number_format: national
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  last_updated_date_style: Last updated in TODAY
+  date_style: MONTH_ABBREVIATION YEAR
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  to: –
+  abbreviations_for_months:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+rendercv_settings:
+  render_command:
+    output_folder_name: rendercv_output_da
+    pdf_path: ted_zhao_da_cv.pdf
+    dont_generate_html: false 
+    dont_generate_markdown: false 
+    dont_generate_png: false
