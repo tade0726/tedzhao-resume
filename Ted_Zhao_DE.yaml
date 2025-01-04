@@ -10,7 +10,7 @@ cv:
       username: tade0726
   sections:
     summary:
-      - bullet: Senior Data Engineer with proven expertise in optimising data architectures, reducing schema size by 50% and query runtime by 50%.
+      - bullet: Data Engineer with proven expertise in optimising data architectures, reducing schema size by 50% and query runtime by 50%.
       - bullet: Extensive experience with modern data stack (DBT, Dagster, Databricks) and cloud platforms (AWS, Azure).
       - bullet: Skilled in real-time data streaming and batch processing, implementing production systems with Redis, Elasticsearch, and PySpark.
       - bullet: Track record of building scalable data solutions from simulation systems to RAG-powered chatbots.
