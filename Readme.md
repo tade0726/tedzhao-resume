@@ -1,12 +1,4 @@
-# lib
+# Ted Zhao
 
-https://docs.rendercv.com/
+My resume: [CV](./ted_zhao_ml_cv.pdf)
 
-
-
-# installation
-
-
-```bash
-pipx install rendercv
-```
