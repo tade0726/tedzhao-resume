@@ -21,8 +21,7 @@ cv:
         start_date: 2023-05
         end_date: 2024-07
         highlights:
-          - Developed LLM prompts with RAG to categorise company data into GICS-like themes, enhancing industry analysis.
-          - Built knowledge graphs from LLMs to extract entity relationships (executives, competitors, supply chains) for financial insights.
+          - Built GPT-4 theme extraction pipeline for 10K+ monthly company profiles, achieving 92% accuracy and reducing review time by 75% through optimized prompt engineering.
           - Simplified 30+ table data models with DBT, reducing schema size by 50% and redundant data by 15%.
           - Optimised queries through join refinement and re-indexing, cutting runtime by 50%.
           - Integrated DBT with Dagster Cloud for mixed orchestration of notebook and DBT jobs.
@@ -32,7 +31,7 @@ cv:
         start_date: 2019-11
         end_date: 2021-07
         highlights:
-          - Led end-to-end ML pipeline in Databricks/MLflow, engineering user behaviour features and iteratively improving CTR by 5-10%.
+          - Performed end-to-end ML pipeline in Databricks/MLflow, engineering user behaviour features and iteratively improving CTR by 5-10%.
           - Deployed ensemble of LightGBM and Deep Learning models with A/B testing framework for continuous model refinement.
           - Developed ResNet-based classifier for 20 hotel categories with hierarchical labelling system, achieving 99% Top-5 accuracy.
           - Enhanced image selection using MobileNet with multi-dimensional aesthetic scoring (composition, lighting, detail), lifting CTR by 3%.
@@ -88,7 +87,7 @@ cv:
       - label: Data Engineering
         details: DBT, Databricks, Snowflake, Dagster
       - label: Programming
-        details: Python, VBA, Scala, Julia
+        details: Python, VBA
       - label: Web Development
         details: Django, Flask, Asyncio, Scrapy
       - label: ETL/Data Tools
