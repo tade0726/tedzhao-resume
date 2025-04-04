@@ -36,7 +36,6 @@ cv:
           - Developed ResNet-based classifier for 20 hotel categories with hierarchical labelling system, achieving 99% Top-5 accuracy.
           - Enhanced image selection using MobileNet with multi-dimensional aesthetic scoring (composition, lighting, detail), lifting CTR by 3%.
           - Built T+1 batch processing pipeline using AWS Lambda/PySpark for feature extraction, storing in Parquet format.
-          - Engineered real-time feature streaming from Elasticsearch with Redis caching, improving inference CTR by 2%.
       - company: DJI
         position: Data Scientist
         location: Shenzhen, China
@@ -66,14 +65,14 @@ cv:
         highlights:
           - "**Live Demo**: [ato-chat.streamlit.app](https://ato-chat.streamlit.app/) | **Source**: [github.com/tade0726/ato_chatbot](https://github.com/tade0726/ato_chatbot)"
           - Built production-grade RAG system with LlamaIndex and Qdrant vector store, enabling context-aware tax information retrieval.
-          - Implemented MLOps pipeline with ZenML for data ingestion, OpenAI fine-tuning, and automated model evaluation.
+          - Implemented MLOps pipeline with ZenML for data ingestion, fine-tuning, and automated model evaluation.
           - Developed Streamlit-based UI with real-time query rephrasing and source citations for enhanced user trust.
       - name: Quantitative Trading with Reinforcement Learning
         location: University of Adelaide
         date: 2022-09
         end_date: 2023-02
         highlights:
-          - Researched and developed crypto trading strategy using Reinforcement Learning at University of Adelaide.
+          - Researched and developed crypto trading strategy using Reinforcement Learning.
           - Designed multi-asset portfolio optimisation with Sharpe Ratio reward system for buy/sell quantity decisions.
           - Built dual Deep Learning modules for price signal prediction and market sentiment analysis.
           - Implemented comprehensive backtesting framework evaluating Sharpe Ratio and Maximum Drawdown (MDD).
