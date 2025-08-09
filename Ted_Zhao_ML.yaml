@@ -15,6 +15,22 @@ cv:
       - bullet: Strong MLOps background with Databricks, MLflow, and ZenML, focusing on production-grade model deployment and monitoring.
       - bullet: Track record of innovative solutions from credit scoring to LLM-powered chatbots, consistently driving business value through AI.
     experience:
+      - company: Lyrebird Health
+        position: AI Engineer
+        location: Melbourne, VIC
+        start_date: 2025-07
+        end_date:
+        highlights:
+          - Building LLM metrics to improve business value through AI.
+      - company: Department for Education, South Australia
+        position: AI Engineer
+        location: Adelaide, SA
+        start_date: 2025-06
+        end_date: 2025-07
+        highlights:
+          - Developed GenAI-powered chatbot solutions using agentic and workflow paradigms with PDF-based data sources, implementing metadata-filtered RAG for efficient document search and analytical query processing.
+          - Built cross-referencing systems for PDF documents and implemented sensitive information redaction workflows to support LLM-powered human-in-the-loop application approval processes.
+          - Enhanced PDF parsing accuracy through integration of OCR tools and vision-language models (VLMs), improving data extraction completeness for government efficiency initiatives.
       - company: Rainmakr.ai
         position: Data/AI Engineer
         location: Adelaide, SA (Remote)
@@ -77,7 +93,7 @@ cv:
           - Built dual Deep Learning modules for price signal prediction and market sentiment analysis.
           - Implemented comprehensive backtesting framework evaluating Sharpe Ratio and Maximum Drawdown (MDD).
           - Developed profit analysis system incorporating trading fees and compound returns visualisation.
-    
+
     skills:
       - label: ML/AI
         details: Reinforcement Learning, Deep Learning, Clustering, LightGBM, XGBoost, SVM, Word2Vec, A/B Testing
@@ -106,7 +122,7 @@ cv:
         location: Shenzhen, China
         start_date: 2010-09
         end_date: 2014-07
-    languages: 
+    languages:
       - "**English**: IELTS 7.0 **Mandarin**: Native **Cantonese**: Native"
     certifications:
       - area: Machine Learning - https://www.coursera.org/account/accomplishments/verify/Q89DMB9RYYTB
@@ -190,6 +206,6 @@ rendercv_settings:
   render_command:
     output_folder_name: rendercv_output_ml
     pdf_path: ted_zhao_ml_cv.pdf
-    dont_generate_html: false 
-    dont_generate_markdown: false 
+    dont_generate_html: false
+    dont_generate_markdown: false
     dont_generate_png: false
