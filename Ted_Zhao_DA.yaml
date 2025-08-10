@@ -84,7 +84,7 @@ cv:
         start_date: 2010-09
         end_date: 2014-07
     languages: 
-      - "**English**: IELTS 7.0 **Mandarin**: Native **Cantonese**: Native"
+      - "**English**: Full professional proficiency **Mandarin**: Native **Cantonese**: Native"
     certifications:
       - area: Machine Learning - https://www.coursera.org/account/accomplishments/verify/Q89DMB9RYYTB
         institution: Coursera
@@ -94,75 +94,6 @@ cv:
         date: 2018-12
 design:
   theme: engineeringresumes
-  font: Charter
-  font_size: 10pt
-  page_size: letterpaper
-  color: black
-  disable_external_link_icons: true
-  disable_page_numbering: true
-  disable_last_updated_date: true
-  header_font_size: 25 pt
-  text_alignment: left-aligned
-  separator_between_connections: $|$
-  use_icons_for_connections: false
-  margins:
-    page:
-      top: 2 cm
-      bottom: 2 cm
-      left: 2 cm
-      right: 2 cm
-    section_title:
-      top: 0.3 cm
-      bottom: 0.2 cm
-    entry_area:
-      left_and_right: 0 cm
-      vertical_between: 0.2 cm
-      date_and_location_width: 4.5 cm
-    highlights_area:
-      top: 0.10 cm
-      left: 0 cm
-      vertical_between_bullet_points: 0.10 cm
-    header:
-      vertical_between_name_and_connections: 5 pt
-      bottom: 5 pt
-      horizontal_between_connections: 10 pt
-locale_catalog:
-  phone_number_format: national
-  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
-  last_updated_date_style: Last updated in TODAY
-  date_style: MONTH_ABBREVIATION YEAR
-  month: month
-  months: months
-  year: year
-  years: years
-  present: present
-  to: –
-  abbreviations_for_months:
-    - Jan
-    - Feb
-    - Mar
-    - Apr
-    - May
-    - June
-    - July
-    - Aug
-    - Sept
-    - Oct
-    - Nov
-    - Dec
-  full_names_of_months:
-    - January
-    - February
-    - March
-    - April
-    - May
-    - June
-    - July
-    - August
-    - September
-    - October
-    - November
-    - December
 rendercv_settings:
   render_command:
     output_folder_name: rendercv_output_da

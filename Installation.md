@@ -1,15 +1,22 @@
 
 # INSTALLATION
 
-##  To generate CVs with RenderCV
+## To generate CVs with RenderCV
 
 https://docs.rendercv.com/
 
 
-## Install RenderCV in gloabl environment
+## Setting uv
 
 ```bash
-pipx install rendercv
+uv init
+```
+
+
+## Install RenderCV in uv 
+
+```bash
+uv add "rendercv[full]"
 ``` 
 
 
