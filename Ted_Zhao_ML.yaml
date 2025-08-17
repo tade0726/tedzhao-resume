@@ -1,8 +1,8 @@
 cv:
   name: Ted Zhao
-  location: 10/4 Sheppards Lane, Norwood SA 5067, Australia
+  location: Melbourne, VIC, Australia
   email: ted.zhao.au@gmail.com
-  phone: "+61-416-551-622"
+  phone: "+61-0416-551-622"
   social_networks:
     - network: LinkedIn
       username: ted-zhao
@@ -10,8 +10,8 @@ cv:
       username: tade0726
   sections:
     summary:
-      - bullet: Machine Learning Engineer with 5+ years of experience delivering end-to-end AI solutions across fintech, travel, and retail sectors.
-      - bullet: Expertise in RAG systems, computer vision, and reinforcement learning, improving business metrics by 2-10% across projects.
+      - bullet: Machine Learning Engineer with 6+ years of experience delivering end-to-end AI solutions across fintech, travel, and retail sectors.
+      - bullet: Expertise in RAG systems, computer vision, and reinforcement learning, improving business metrics.
       - bullet: Strong MLOps background with Databricks, MLflow, and ZenML, focusing on production-grade model deployment and monitoring.
       - bullet: Track record of innovative solutions from credit scoring to LLM-powered chatbots, consistently driving business value through AI.
     experience:
@@ -21,7 +21,9 @@ cv:
         start_date: 2025-07
         end_date: 2025-08
         highlights:
-          - Building LLM evaluation framework to improve note generation quality.
+          - Built LLM evaluation in Langfuse and LangSmith to measure and improve healthcare documentation quality, with A/B testing and user feedback for continuous improvement.
+          - Built an LLM-as-a-judge system to assess the authenticity, accuracy, and completeness of clinical documentation.
+          - Optimized prompt design to increase prompt cache hit rate.
       - company: Department for Education, South Australia
         position: AI Engineer
         location: Adelaide, SA
