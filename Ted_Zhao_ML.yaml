@@ -24,13 +24,14 @@ cv:
           - Built LLM evaluation in Langfuse and LangSmith to measure and improve healthcare documentation quality, with A/B testing and user feedback for continuous improvement.
           - Built an LLM-as-a-judge system to assess the authenticity, accuracy, and completeness of clinical documentation.
           - Optimized prompt design to increase prompt cache hit rate.
+          - Provided Redactation solution for sensitive information to comply with HIPAA/GDPR.
       - company: Department for Education, South Australia
         position: AI Engineer
         location: Adelaide, SA
         start_date: 2025-06
         end_date: 2025-07
         highlights:
-          - Developed GenAI-powered chatbot solutions using agentic and workflow paradigms with PDF-based data sources, implementing metadata-filtered RAG for efficient document search and analytical query processing.
+          - Developed LLM-powered chatbot using agentic and workflow paradigms with PDF data sources, implementing metadata-filtered RAG for efficient document search and analytical query processing.
           - Built cross-referencing systems for PDF documents and implemented sensitive information redaction workflows to support LLM-powered human-in-the-loop application approval processes.
           - Enhanced PDF parsing accuracy through integration of OCR tools and vision-language models (VLMs), improving data extraction completeness for government efficiency initiatives.
       - company: Rainmakr.ai
