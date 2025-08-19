@@ -11,6 +11,7 @@ cv:
   sections:
     summary:
       - bullet: Machine Learning Engineer with 6+ years of experience delivering end-to-end AI solutions across fintech, travel, and retail sectors.
+      - bullet: Proficient in AI-assisted development tools (Cursor IDE, Claude Code, ChatGPT Codex) for accelerated development and code quality.
       - bullet: Expertise in RAG systems, computer vision, and reinforcement learning, improving business metrics.
       - bullet: Strong MLOps background with Databricks, MLflow, and ZenML, focusing on production-grade model deployment and monitoring.
       - bullet: Track record of innovative solutions from credit scoring to LLM-powered chatbots, consistently driving business value through AI.
@@ -100,6 +101,8 @@ cv:
     skills:
       - label: ML/AI
         details: Reinforcement Learning, Deep Learning, Clustering, LightGBM, XGBoost, SVM, Word2Vec, A/B Testing
+      - label: AI Development Tools
+        details: Cursor IDE, Claude Code, ChatGPT Codex
       - label: MLOps/Cloud
         details: Azure ML, AWS, SageMaker, MLflow
       - label: Data Engineering
@@ -126,7 +129,7 @@ cv:
         start_date: 2010-09
         end_date: 2014-07
     languages:
-      - "**English**: Full professional proficiency **Mandarin**: Native **Cantonese**: Native"
+      - "**English**: Full professional proficiency | **Mandarin**: Native | **Cantonese**: Native"
     certifications:
       - area: Machine Learning - https://www.coursera.org/account/accomplishments/verify/Q89DMB9RYYTB
         institution: Coursera
